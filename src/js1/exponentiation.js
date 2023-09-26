@@ -5,4 +5,5 @@ let exponentiation = (x,n)=>{
         return x* exponentiation(x,n-1)
     }
 }
+
 console.log(exponentiation(2,5))
