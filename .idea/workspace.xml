@@ -76,7 +76,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1695721390806</updated>
-      <workItem from="1695721393228" duration="3701000" />
+      <workItem from="1695721393228" duration="3770000" />
     </task>
     <task id="LOCAL-00001" summary="factorial">
       <created>1695721666836</created>
@@ -155,7 +155,14 @@
       <option name="project" value="LOCAL" />
       <updated>1695725599324</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="main commit">
+      <created>1695725691305</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1695725691305</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -180,6 +187,7 @@
     <MESSAGE value="add m2vd ccc" />
     <MESSAGE value="repeat" />
     <MESSAGE value="repeat add" />
-    <option name="LAST_COMMIT_MESSAGE" value="repeat add" />
+    <MESSAGE value="main commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="main commit" />
   </component>
 </project>
