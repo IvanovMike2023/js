@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a6573293-8825-4a61-b33e-db15c0a43077" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/js1/m2.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js1/m2.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -77,7 +76,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1695721390806</updated>
-      <workItem from="1695721393228" duration="3287000" />
+      <workItem from="1695721393228" duration="3701000" />
     </task>
     <task id="LOCAL-00001" summary="factorial">
       <created>1695721666836</created>
@@ -135,7 +134,28 @@
       <option name="project" value="LOCAL" />
       <updated>1695723230695</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="add m2vd ccc">
+      <created>1695725273845</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1695725273845</updated>
+    </task>
+    <task id="LOCAL-00010" summary="repeat">
+      <created>1695725522121</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1695725522121</updated>
+    </task>
+    <task id="LOCAL-00011" summary="repeat add">
+      <created>1695725599324</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1695725599324</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -157,6 +177,9 @@
     <MESSAGE value="exponentiation" />
     <MESSAGE value="add m2" />
     <MESSAGE value="add m2vd d" />
-    <option name="LAST_COMMIT_MESSAGE" value="add m2vd d" />
+    <MESSAGE value="add m2vd ccc" />
+    <MESSAGE value="repeat" />
+    <MESSAGE value="repeat add" />
+    <option name="LAST_COMMIT_MESSAGE" value="repeat add" />
   </component>
 </project>
