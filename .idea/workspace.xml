@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a6573293-8825-4a61-b33e-db15c0a43077" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/js1/m2.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js1/m2.js" afterDir="false" />
+    <list default="true" id="a6573293-8825-4a61-b33e-db15c0a43077" name="Changes" comment="main commit2">
+      <change afterPath="$PROJECT_DIR$/src/js1/Number_of_Decimal_Digits.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/js1/Reverse_a_number_in_any_base.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,6 +17,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="TypeScript File" />
         <option value="JavaScript File" />
       </list>
     </option>
@@ -40,10 +43,16 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="yarn" />
-    <property name="ts.external.directory.path" value="E:\js\node_modules\typescript\lib" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2021.3.1\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager" selected="Node.js.exponentiation.js">
+  <component name="RunManager" selected="Node.js.Reverse_a_number_in_any_base.js">
+    <configuration name="Number_of_Decimal_Digits.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/js1/Number_of_Decimal_Digits.js" working-dir="$PROJECT_DIR$/src/js1">
+      <method v="2" />
+    </configuration>
+    <configuration name="Reverse_a_number_in_any_base.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/js1/Reverse_a_number_in_any_base.js" working-dir="$PROJECT_DIR$/src/js1">
+      <method v="2" />
+    </configuration>
     <configuration name="exponentiation.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/js1/exponentiation.js" working-dir="$PROJECT_DIR$/src/js1">
       <method v="2" />
     </configuration>
@@ -62,9 +71,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.Reverse_a_number_in_any_base.js" />
+        <item itemvalue="Node.js.Number_of_Decimal_Digits.js" />
+        <item itemvalue="npm.start" />
         <item itemvalue="Node.js.exponentiation.js" />
         <item itemvalue="Node.js.factorial.js" />
-        <item itemvalue="npm.start" />
       </list>
     </recent_temporary>
   </component>
@@ -76,7 +87,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1695721390806</updated>
-      <workItem from="1695721393228" duration="3770000" />
+      <workItem from="1695721393228" duration="4407000" />
+      <workItem from="1695888970613" duration="169000" />
+      <workItem from="1695889142096" duration="8205000" />
     </task>
     <task id="LOCAL-00001" summary="factorial">
       <created>1695721666836</created>
@@ -162,7 +175,14 @@
       <option name="project" value="LOCAL" />
       <updated>1695725691305</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="main commit2">
+      <created>1695725755160</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1695725755160</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -173,7 +193,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
@@ -188,6 +220,7 @@
     <MESSAGE value="repeat" />
     <MESSAGE value="repeat add" />
     <MESSAGE value="main commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="main commit" />
+    <MESSAGE value="main commit2" />
+    <option name="LAST_COMMIT_MESSAGE" value="main commit2" />
   </component>
 </project>
