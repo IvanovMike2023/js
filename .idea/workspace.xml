@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a6573293-8825-4a61-b33e-db15c0a43077" name="Changes" comment="reverse number">
-      <change afterPath="$PROJECT_DIR$/src/js1/Simple_Fun_Min_And_Max.js" afterDir="false" />
+    <list default="true" id="a6573293-8825-4a61-b33e-db15c0a43077" name="Changes" comment="max min level7">
+      <change afterPath="$PROJECT_DIR$/src/js1/Remove_words_from.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,17 +45,17 @@
     <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2021.3.1\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager" selected="Node.js.Simple_Fun_Min_And_Max.js">
+  <component name="RunManager" selected="Node.js.Remove_words_from.js">
     <configuration name="Number_of_Decimal_Digits.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/js1/Number_of_Decimal_Digits.js" working-dir="$PROJECT_DIR$/src/js1">
+      <method v="2" />
+    </configuration>
+    <configuration name="Remove_words_from.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/js1/Remove_words_from.js" working-dir="$PROJECT_DIR$/src/js1">
       <method v="2" />
     </configuration>
     <configuration name="Reverse_a_number_in_any_base.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/js1/Reverse_a_number_in_any_base.js" working-dir="$PROJECT_DIR$/src/js1">
       <method v="2" />
     </configuration>
     <configuration name="Simple_Fun_Min_And_Max.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/js1/Simple_Fun_Min_And_Max.js" working-dir="$PROJECT_DIR$/src/js1">
-      <method v="2" />
-    </configuration>
-    <configuration name="exponentiation.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/js1/exponentiation.js" working-dir="$PROJECT_DIR$/src/js1">
       <method v="2" />
     </configuration>
     <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
@@ -70,11 +70,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.Remove_words_from.js" />
         <item itemvalue="Node.js.Simple_Fun_Min_And_Max.js" />
         <item itemvalue="npm.start" />
         <item itemvalue="Node.js.Reverse_a_number_in_any_base.js" />
         <item itemvalue="Node.js.Number_of_Decimal_Digits.js" />
-        <item itemvalue="Node.js.exponentiation.js" />
       </list>
     </recent_temporary>
   </component>
@@ -89,7 +89,8 @@
       <workItem from="1695721393228" duration="4407000" />
       <workItem from="1695888970613" duration="169000" />
       <workItem from="1695889142096" duration="9433000" />
-      <workItem from="1696760603219" duration="9033000" />
+      <workItem from="1696760603219" duration="9072000" />
+      <workItem from="1696789344004" duration="8455000" />
     </task>
     <task id="LOCAL-00001" summary="factorial">
       <created>1695721666836</created>
@@ -189,7 +190,14 @@
       <option name="project" value="LOCAL" />
       <updated>1695906677154</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="max min level7">
+      <created>1696773331186</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1696773331186</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -229,6 +237,7 @@
     <MESSAGE value="main commit" />
     <MESSAGE value="main commit2" />
     <MESSAGE value="reverse number" />
-    <option name="LAST_COMMIT_MESSAGE" value="reverse number" />
+    <MESSAGE value="max min level7" />
+    <option name="LAST_COMMIT_MESSAGE" value="max min level7" />
   </component>
 </project>
