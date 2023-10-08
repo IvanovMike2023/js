@@ -5,6 +5,7 @@ function remove (string) {
 }
 
  remove("!bpb! !iglu !ldszi oic msihqbd !ksmorsn !tgth! pbcwex! skjf !bxyx")
+
 //remove("Hi! !Hi Hi!") === ""
 //remove("!!Hi! !Hi Hi! Hi!!") //=== "Hi!!"
  //remove("Hi! !Hi! Hi!") === "!Hi!"

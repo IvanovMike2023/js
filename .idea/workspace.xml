@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a6573293-8825-4a61-b33e-db15c0a43077" name="Changes" comment="max min level7">
-      <change afterPath="$PROJECT_DIR$/src/js1/Remove_words_from.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="a6573293-8825-4a61-b33e-db15c0a43077" name="Changes" comment="remove words 7 rey">
+      <change beforePath="$PROJECT_DIR$/src/js1/Remove_words_from.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js1/Remove_words_from.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,7 +89,7 @@
       <workItem from="1695888970613" duration="169000" />
       <workItem from="1695889142096" duration="9433000" />
       <workItem from="1696760603219" duration="9072000" />
-      <workItem from="1696789344004" duration="8455000" />
+      <workItem from="1696789344004" duration="8512000" />
     </task>
     <task id="LOCAL-00001" summary="factorial">
       <created>1695721666836</created>
@@ -197,7 +196,14 @@
       <option name="project" value="LOCAL" />
       <updated>1696773331186</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="remove words 7 rey">
+      <created>1696797906587</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1696797906587</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -238,6 +244,7 @@
     <MESSAGE value="main commit2" />
     <MESSAGE value="reverse number" />
     <MESSAGE value="max min level7" />
-    <option name="LAST_COMMIT_MESSAGE" value="max min level7" />
+    <MESSAGE value="remove words 7 rey" />
+    <option name="LAST_COMMIT_MESSAGE" value="remove words 7 rey" />
   </component>
 </project>
