@@ -1,24 +1,11 @@
 function colourAssociation(array){
-    // We <3 colours..
-    //console.log(array.toString().split(','))
-    let res= new Object()
-    let res2= new Object()
-    let mas = array//.toString().split(',')
-
-//res[mas[0]]=mas[1]
-
-
-    //console.log(mas)
-    mas.map((m)=>{
-
-    res[m[0]] = m[1]
-        res2={...res}
+    let result= []
+    array.map((m)=>{
+            result=[...result,{[m[0]]:m[1]}]
     })
-    console.log(res)
-    let newr = []
-    newr.push(res2)
-    // mas.push(res)
-    console.log(newr)
+    result=array.map(([color,abstraction])=>({[color]: abstraction}))
+    console.log(result)
 }
-var array = [["white", "goodness"],["whinfgnfgte", "goodnessnnfn"]] //returns [{white: 'goodness'}, ...]
+
+var array = [["white", "goodness"],["whinfgnfgte", "goodnessnnfn"],["red", "222"],["white", "goodness"]] //returns [{white: 'goodness'}, ...]
 colourAssociation(array)
