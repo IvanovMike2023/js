@@ -18,5 +18,4 @@ let result = ''
     }else return console.log(result)
 
 }
-
 triangle('BBR')
