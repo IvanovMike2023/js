@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a6573293-8825-4a61-b33e-db15c0a43077" name="Changes" comment="trianglef">
-      <change afterPath="$PROJECT_DIR$/src/js1/Javascript_filter.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="a6573293-8825-4a61-b33e-db15c0a43077" name="Changes" comment="Javascript_filter.js">
+      <change beforePath="$PROJECT_DIR$/src/js1/Javascript_filter.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js1/Javascript_filter.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -94,7 +93,7 @@
       <workItem from="1696789344004" duration="9116000" />
       <workItem from="1696880550742" duration="4450000" />
       <workItem from="1697033647394" duration="19228000" />
-      <workItem from="1698049131837" duration="887000" />
+      <workItem from="1698049131837" duration="978000" />
     </task>
     <task id="LOCAL-00001" summary="factorial">
       <created>1695721666836</created>
@@ -243,7 +242,14 @@
       <option name="project" value="LOCAL" />
       <updated>1697056536321</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="Javascript_filter.js">
+      <created>1698050074400</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1698050074400</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -290,6 +296,7 @@
     <MESSAGE value="colourAssociation done" />
     <MESSAGE value="triangle" />
     <MESSAGE value="trianglef" />
-    <option name="LAST_COMMIT_MESSAGE" value="trianglef" />
+    <MESSAGE value="Javascript_filter.js" />
+    <option name="LAST_COMMIT_MESSAGE" value="Javascript_filter.js" />
   </component>
 </project>
