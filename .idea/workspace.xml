@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a6573293-8825-4a61-b33e-db15c0a43077" name="Changes" comment="Javascript_filter-1.js">
-      <change afterPath="$PROJECT_DIR$/src/js1/Return_a_sorted_list_of_objects.js" afterDir="false" />
+    <list default="true" id="a6573293-8825-4a61-b33e-db15c0a43077" name="Changes" comment="sortList">
+      <change afterPath="$PROJECT_DIR$/src/js1/Javascript_Namespacing.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/js1/Manipulate_URL_Parameters.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js1/Manipulate_URL_Parameters.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/js1/Return_a_sorted_list_of_objects.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js1/Return_a_sorted_list_of_objects.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,8 +54,11 @@
     <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2021.3.1\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager" selected="Node.js.Return_a_sorted_list_of_objects.js">
+  <component name="RunManager" selected="Node.js.Javascript_Namespacing.js">
     <configuration name="Coloured_Triangles.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/js1/Coloured_Triangles.js" working-dir="$PROJECT_DIR$/src/js1">
+      <method v="2" />
+    </configuration>
+    <configuration name="Javascript_Namespacing.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/js1/Javascript_Namespacing.js" working-dir="$PROJECT_DIR$/src/js1">
       <method v="2" />
     </configuration>
     <configuration name="Javascript_filter.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/js1/Javascript_filter.js" working-dir="$PROJECT_DIR$/src/js1">
@@ -67,16 +70,13 @@
     <configuration name="Return_a_sorted_list_of_objects.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/js1/Return_a_sorted_list_of_objects.js" working-dir="$PROJECT_DIR$/src/js1">
       <method v="2" />
     </configuration>
-    <configuration name="colourAssociation.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/js1/colourAssociation.js" working-dir="$PROJECT_DIR$/src/js1">
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.Javascript_Namespacing.js" />
         <item itemvalue="Node.js.Return_a_sorted_list_of_objects.js" />
         <item itemvalue="Node.js.Manipulate_URL_Parameters.js" />
         <item itemvalue="Node.js.Javascript_filter.js" />
         <item itemvalue="Node.js.Coloured_Triangles.js" />
-        <item itemvalue="Node.js.colourAssociation.js" />
       </list>
     </recent_temporary>
   </component>
@@ -96,7 +96,7 @@
       <workItem from="1696880550742" duration="4450000" />
       <workItem from="1697033647394" duration="19228000" />
       <workItem from="1698049131837" duration="10169000" />
-      <workItem from="1698133478514" duration="4310000" />
+      <workItem from="1698133478514" duration="10430000" />
     </task>
     <task id="LOCAL-00001" summary="factorial">
       <created>1695721666836</created>
@@ -259,7 +259,14 @@
       <option name="project" value="LOCAL" />
       <updated>1698050127248</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="sortList">
+      <created>1698138020997</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1698138020997</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -308,6 +315,7 @@
     <MESSAGE value="trianglef" />
     <MESSAGE value="Javascript_filter.js" />
     <MESSAGE value="Javascript_filter-1.js" />
-    <option name="LAST_COMMIT_MESSAGE" value="Javascript_filter-1.js" />
+    <MESSAGE value="sortList" />
+    <option name="LAST_COMMIT_MESSAGE" value="sortList" />
   </component>
 </project>
