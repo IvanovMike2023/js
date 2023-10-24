@@ -5,7 +5,10 @@
  * @returns {string} The result URL.
  */
 function addOrChangeUrlParameter (url, param) {
-   param=param.split('=')
+    if(param){
+        param=param.split('=')
+    }
+else return console.log(url)
     console.log(param)
     if(url.indexOf(param[0])===-1 && url.indexOf('?')===-1){
         console.log(url+'?'+param.join('='))
@@ -38,5 +41,5 @@ function addOrChangeUrlParameter (url, param) {
 //addOrChangeUrlParameter("www.example.com?key=value", "key2=value2" )
 // -> 'www.example.com?key=value&key2=value2' (adds another parameter).
 
-addOrChangeUrlParameter("www.example.com?key=oldValue", "" )
+addOrChangeUrlParameter("www.example.com?key=oldValue", undefined )
 // ->'www.example.com?key=newValue' (changes the parameter).

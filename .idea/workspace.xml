@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a6573293-8825-4a61-b33e-db15c0a43077" name="Changes" comment="Javascript_filter-1.js">
-      <change afterPath="$PROJECT_DIR$/src/js1/Manipulate_URL_Parameters.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/js1/Return_a_sorted_list_of_objects.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/js1/Manipulate_URL_Parameters.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js1/Manipulate_URL_Parameters.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +54,7 @@
     <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2021.3.1\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager" selected="Node.js.Manipulate_URL_Parameters.js">
+  <component name="RunManager" selected="Node.js.Return_a_sorted_list_of_objects.js">
     <configuration name="Coloured_Triangles.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/js1/Coloured_Triangles.js" working-dir="$PROJECT_DIR$/src/js1">
       <method v="2" />
     </configuration>
@@ -63,7 +64,7 @@
     <configuration name="Manipulate_URL_Parameters.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/js1/Manipulate_URL_Parameters.js" working-dir="$PROJECT_DIR$/src/js1">
       <method v="2" />
     </configuration>
-    <configuration name="Remove_words_from.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/js1/Remove_words_from.js" working-dir="$PROJECT_DIR$/src/js1">
+    <configuration name="Return_a_sorted_list_of_objects.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/js1/Return_a_sorted_list_of_objects.js" working-dir="$PROJECT_DIR$/src/js1">
       <method v="2" />
     </configuration>
     <configuration name="colourAssociation.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/js1/colourAssociation.js" working-dir="$PROJECT_DIR$/src/js1">
@@ -71,11 +72,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.Return_a_sorted_list_of_objects.js" />
         <item itemvalue="Node.js.Manipulate_URL_Parameters.js" />
         <item itemvalue="Node.js.Javascript_filter.js" />
         <item itemvalue="Node.js.Coloured_Triangles.js" />
         <item itemvalue="Node.js.colourAssociation.js" />
-        <item itemvalue="Node.js.Remove_words_from.js" />
       </list>
     </recent_temporary>
   </component>
@@ -95,6 +96,7 @@
       <workItem from="1696880550742" duration="4450000" />
       <workItem from="1697033647394" duration="19228000" />
       <workItem from="1698049131837" duration="10169000" />
+      <workItem from="1698133478514" duration="4310000" />
     </task>
     <task id="LOCAL-00001" summary="factorial">
       <created>1695721666836</created>
