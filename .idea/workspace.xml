@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a6573293-8825-4a61-b33e-db15c0a43077" name="Changes" comment="Operator overload">
-      <change afterPath="$PROJECT_DIR$/src/js1/esreveR_gnirtS.js" afterDir="false" />
+    <list default="true" id="a6573293-8825-4a61-b33e-db15c0a43077" name="Changes" comment="String.prototype.reverse">
+      <change afterPath="$PROJECT_DIR$/src/js1/Honey_to_the_Bee.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,14 +53,14 @@
     <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2021.3.1\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager" selected="Node.js.esreveR_gnirtS.js">
+  <component name="RunManager" selected="Node.js.Honey_to_the_Bee.js">
+    <configuration name="Honey_to_the_Bee.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/js1/Honey_to_the_Bee.js" working-dir="$PROJECT_DIR$/src/js1">
+      <method v="2" />
+    </configuration>
     <configuration name="Javascript_Namespacing.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/js1/Javascript_Namespacing.js" working-dir="$PROJECT_DIR$/src/js1">
       <method v="2" />
     </configuration>
     <configuration name="Operator_overload.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/js1/Operator_overload.js" working-dir="$PROJECT_DIR$/src/js1">
-      <method v="2" />
-    </configuration>
-    <configuration name="Return_a_sorted_list_of_objects.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/js1/Return_a_sorted_list_of_objects.js" working-dir="$PROJECT_DIR$/src/js1">
       <method v="2" />
     </configuration>
     <configuration name="SantaClausable_Interface.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/js1/SantaClausable_Interface.js" working-dir="$PROJECT_DIR$/src/js1">
@@ -71,11 +71,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.Honey_to_the_Bee.js" />
         <item itemvalue="Node.js.esreveR_gnirtS.js" />
         <item itemvalue="Node.js.SantaClausable_Interface.js" />
         <item itemvalue="Node.js.Operator_overload.js" />
         <item itemvalue="Node.js.Javascript_Namespacing.js" />
-        <item itemvalue="Node.js.Return_a_sorted_list_of_objects.js" />
       </list>
     </recent_temporary>
   </component>
@@ -96,7 +96,7 @@
       <workItem from="1697033647394" duration="19228000" />
       <workItem from="1698049131837" duration="10169000" />
       <workItem from="1698133478514" duration="18112000" />
-      <workItem from="1698219506636" duration="1019000" />
+      <workItem from="1698219506636" duration="8411000" />
     </task>
     <task id="LOCAL-00001" summary="factorial">
       <created>1695721666836</created>
@@ -287,7 +287,14 @@
       <option name="project" value="LOCAL" />
       <updated>1698165025399</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="String.prototype.reverse">
+      <created>1698220821168</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1698220821168</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -340,6 +347,7 @@
     <MESSAGE value="Javascript Namespacing" />
     <MESSAGE value="Operator overload ?" />
     <MESSAGE value="Operator overload" />
-    <option name="LAST_COMMIT_MESSAGE" value="Operator overload" />
+    <MESSAGE value="String.prototype.reverse" />
+    <option name="LAST_COMMIT_MESSAGE" value="String.prototype.reverse" />
   </component>
 </project>
