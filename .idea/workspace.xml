@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a6573293-8825-4a61-b33e-db15c0a43077" name="Changes" comment="Operator overload">
-      <change afterPath="$PROJECT_DIR$/src/js1/SantaClausable_Interface.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/js1/esreveR_gnirtS.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,11 +53,8 @@
     <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2021.3.1\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager" selected="Node.js.SantaClausable_Interface.js">
+  <component name="RunManager" selected="Node.js.esreveR_gnirtS.js">
     <configuration name="Javascript_Namespacing.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/js1/Javascript_Namespacing.js" working-dir="$PROJECT_DIR$/src/js1">
-      <method v="2" />
-    </configuration>
-    <configuration name="Manipulate_URL_Parameters.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/js1/Manipulate_URL_Parameters.js" working-dir="$PROJECT_DIR$/src/js1">
       <method v="2" />
     </configuration>
     <configuration name="Operator_overload.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/js1/Operator_overload.js" working-dir="$PROJECT_DIR$/src/js1">
@@ -69,13 +66,16 @@
     <configuration name="SantaClausable_Interface.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/js1/SantaClausable_Interface.js" working-dir="$PROJECT_DIR$/src/js1">
       <method v="2" />
     </configuration>
+    <configuration name="esreveR_gnirtS.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/js1/esreveR_gnirtS.js" working-dir="$PROJECT_DIR$/src/js1">
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.esreveR_gnirtS.js" />
         <item itemvalue="Node.js.SantaClausable_Interface.js" />
         <item itemvalue="Node.js.Operator_overload.js" />
         <item itemvalue="Node.js.Javascript_Namespacing.js" />
         <item itemvalue="Node.js.Return_a_sorted_list_of_objects.js" />
-        <item itemvalue="Node.js.Manipulate_URL_Parameters.js" />
       </list>
     </recent_temporary>
   </component>
@@ -96,6 +96,7 @@
       <workItem from="1697033647394" duration="19228000" />
       <workItem from="1698049131837" duration="10169000" />
       <workItem from="1698133478514" duration="18112000" />
+      <workItem from="1698219506636" duration="1019000" />
     </task>
     <task id="LOCAL-00001" summary="factorial">
       <created>1695721666836</created>
