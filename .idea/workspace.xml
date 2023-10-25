@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a6573293-8825-4a61-b33e-db15c0a43077" name="Changes" comment="Number-like counter">
-      <change afterPath="$PROJECT_DIR$/src/js1/The_Power_of_Exponents.js" afterDir="false" />
+    <list default="true" id="a6573293-8825-4a61-b33e-db15c0a43077" name="Changes" comment="The Power of Exponents">
+      <change afterPath="$PROJECT_DIR$/src/js1/isAN(value).js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,14 +53,11 @@
     <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2021.3.1\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager" selected="Node.js.The_Power_of_Exponents.js">
+  <component name="RunManager" selected="Node.js.isAN(value).js">
     <configuration name="Honey_to_the_Bee.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/js1/Honey_to_the_Bee.js" working-dir="$PROJECT_DIR$/src/js1">
       <method v="2" />
     </configuration>
     <configuration name="Number_like_counter.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/js1/Number_like_counter.js" working-dir="$PROJECT_DIR$/src/js1">
-      <method v="2" />
-    </configuration>
-    <configuration name="SantaClausable_Interface.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/js1/SantaClausable_Interface.js" working-dir="$PROJECT_DIR$/src/js1">
       <method v="2" />
     </configuration>
     <configuration name="The_Power_of_Exponents.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/js1/The_Power_of_Exponents.js" working-dir="$PROJECT_DIR$/src/js1">
@@ -69,13 +66,16 @@
     <configuration name="esreveR_gnirtS.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/js1/esreveR_gnirtS.js" working-dir="$PROJECT_DIR$/src/js1">
       <method v="2" />
     </configuration>
+    <configuration name="isAN(value).js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/js1/isAN(value).js" working-dir="$PROJECT_DIR$/src/js1">
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.isAN(value).js" />
         <item itemvalue="Node.js.The_Power_of_Exponents.js" />
         <item itemvalue="Node.js.Number_like_counter.js" />
         <item itemvalue="Node.js.Honey_to_the_Bee.js" />
         <item itemvalue="Node.js.esreveR_gnirtS.js" />
-        <item itemvalue="Node.js.SantaClausable_Interface.js" />
       </list>
     </recent_temporary>
   </component>
@@ -96,7 +96,7 @@
       <workItem from="1697033647394" duration="19228000" />
       <workItem from="1698049131837" duration="10169000" />
       <workItem from="1698133478514" duration="18112000" />
-      <workItem from="1698219506636" duration="14834000" />
+      <workItem from="1698219506636" duration="22698000" />
     </task>
     <task id="LOCAL-00001" summary="factorial">
       <created>1695721666836</created>
@@ -308,7 +308,14 @@
       <option name="project" value="LOCAL" />
       <updated>1698244384898</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="The Power of Exponents">
+      <created>1698246837471</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1698246837471</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -338,7 +345,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="factorial" />
     <MESSAGE value="exponentiation" />
     <MESSAGE value="add m2" />
     <MESSAGE value="add m2vd d" />
@@ -363,6 +369,7 @@
     <MESSAGE value="Operator overload" />
     <MESSAGE value="String.prototype.reverse" />
     <MESSAGE value="Number-like counter" />
-    <option name="LAST_COMMIT_MESSAGE" value="Number-like counter" />
+    <MESSAGE value="The Power of Exponents" />
+    <option name="LAST_COMMIT_MESSAGE" value="The Power of Exponents" />
   </component>
 </project>
