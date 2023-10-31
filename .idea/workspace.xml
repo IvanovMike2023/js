@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a6573293-8825-4a61-b33e-db15c0a43077" name="Changes" comment="Multiples of 3 or 5">
-      <change afterPath="$PROJECT_DIR$/src/kata_6_key/Find_the_odd_int.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/kata_6_key/Stop_gninnipS_My_sdroW!.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="a6573293-8825-4a61-b33e-db15c0a43077" name="Changes" comment="Find the odd int" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -100,7 +96,7 @@
       <workItem from="1698219506636" duration="23322000" />
       <workItem from="1698327592115" duration="1321000" />
       <workItem from="1698676477226" duration="9405000" />
-      <workItem from="1698758496755" duration="3779000" />
+      <workItem from="1698758496755" duration="4391000" />
     </task>
     <task id="LOCAL-00001" summary="factorial">
       <created>1695721666836</created>
@@ -347,7 +343,14 @@
       <option name="project" value="LOCAL" />
       <updated>1698690271018</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="Find the odd int">
+      <created>1698763078206</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1698763078206</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -377,7 +380,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="repeat" />
     <MESSAGE value="repeat add" />
     <MESSAGE value="main commit" />
     <MESSAGE value="main commit2" />
@@ -402,6 +404,7 @@
     <MESSAGE value="Singleton Pattern" />
     <MESSAGE value="isLeapYear" />
     <MESSAGE value="Multiples of 3 or 5" />
-    <option name="LAST_COMMIT_MESSAGE" value="Multiples of 3 or 5" />
+    <MESSAGE value="Find the odd int" />
+    <option name="LAST_COMMIT_MESSAGE" value="Find the odd int" />
   </component>
 </project>
