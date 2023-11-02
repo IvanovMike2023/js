@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a6573293-8825-4a61-b33e-db15c0a43077" name="Changes" comment="6 kyu&#10;Who likes it?">
+    <list default="true" id="a6573293-8825-4a61-b33e-db15c0a43077" name="Changes" comment="6 kyu&#10;Who likes it?!">
+      <change afterPath="$PROJECT_DIR$/src/kata_6_key/Sum_of_Digital_Root.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/kata_6_key/Find_the_odd_int.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/kata_6_key/Find_the_odd_int.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/kata_6_key/Who_likes_it.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/kata_6_key/Who_likes_it.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,11 +54,8 @@
     <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2021.3.1\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager" selected="Node.js.Who_likes_it.js">
+  <component name="RunManager" selected="Node.js.Sum_of_Digital_Root.js">
     <configuration name="Find_the_odd_int.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/kata_6_key/Find_the_odd_int.js" working-dir="$PROJECT_DIR$/src/kata_6_key">
-      <method v="2" />
-    </configuration>
-    <configuration name="Leap_Years.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/js1/Leap_Years.js" working-dir="$PROJECT_DIR$/src/js1">
       <method v="2" />
     </configuration>
     <configuration name="Multiples_of_3_or_5.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/kata_6_key/Multiples_of_3_or_5.js" working-dir="$PROJECT_DIR$/src/kata_6_key">
@@ -67,16 +64,19 @@
     <configuration name="Stop_gninnipS_My_sdroW!.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/kata_6_key/Stop_gninnipS_My_sdroW!.js" working-dir="$PROJECT_DIR$/src/kata_6_key">
       <method v="2" />
     </configuration>
+    <configuration name="Sum_of_Digital_Root.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/kata_6_key/Sum_of_Digital_Root.js" working-dir="$PROJECT_DIR$/src/kata_6_key">
+      <method v="2" />
+    </configuration>
     <configuration name="Who_likes_it.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/kata_6_key/Who_likes_it.js" working-dir="$PROJECT_DIR$/src/kata_6_key">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.Sum_of_Digital_Root.js" />
         <item itemvalue="Node.js.Who_likes_it.js" />
         <item itemvalue="Node.js.Find_the_odd_int.js" />
         <item itemvalue="Node.js.Stop_gninnipS_My_sdroW!.js" />
         <item itemvalue="Node.js.Multiples_of_3_or_5.js" />
-        <item itemvalue="Node.js.Leap_Years.js" />
       </list>
     </recent_temporary>
   </component>
@@ -101,7 +101,8 @@
       <workItem from="1698327592115" duration="1321000" />
       <workItem from="1698676477226" duration="9405000" />
       <workItem from="1698758496755" duration="4466000" />
-      <workItem from="1698825951473" duration="1420000" />
+      <workItem from="1698825951473" duration="2231000" />
+      <workItem from="1698908902309" duration="980000" />
     </task>
     <task id="LOCAL-00001" summary="factorial">
       <created>1695721666836</created>
@@ -362,7 +363,14 @@
       <option name="project" value="LOCAL" />
       <updated>1698767164481</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL-00038" summary="6 kyu&#10;Who likes it?!">
+      <created>1698827581241</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1698827581241</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -392,7 +400,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="main commit" />
     <MESSAGE value="main commit2" />
     <MESSAGE value="reverse number" />
     <MESSAGE value="max min level7" />
@@ -417,6 +424,7 @@
     <MESSAGE value="Multiples of 3 or 5" />
     <MESSAGE value="Find the odd int" />
     <MESSAGE value="6 kyu&#10;Who likes it?" />
-    <option name="LAST_COMMIT_MESSAGE" value="6 kyu&#10;Who likes it?" />
+    <MESSAGE value="6 kyu&#10;Who likes it?!" />
+    <option name="LAST_COMMIT_MESSAGE" value="6 kyu&#10;Who likes it?!" />
   </component>
 </project>
