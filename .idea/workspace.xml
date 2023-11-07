@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a6573293-8825-4a61-b33e-db15c0a43077" name="Changes" comment="&#10;Array.diff">
-      <change afterPath="$PROJECT_DIR$/src/kata_5_key/Moving_Zeros_To_The_End.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/kata_5_key/Simple_Pig_Latin.js" afterDir="false" />
+    <list default="true" id="a6573293-8825-4a61-b33e-db15c0a43077" name="Changes" comment="Simple Pig Latin">
+      <change afterPath="$PROJECT_DIR$/src/kata_5_key/Human_Readable_Time.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,8 +53,11 @@
     <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2021.3.1\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager" selected="Node.js.Simple_Pig_Latin.js">
+  <component name="RunManager" selected="Node.js.Human_Readable_Time.js">
     <configuration name="Array_diff.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/kata_6_key/Array_diff.js" working-dir="$PROJECT_DIR$/src/kata_6_key">
+      <method v="2" />
+    </configuration>
+    <configuration name="Human_Readable_Time.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/kata_5_key/Human_Readable_Time.js" working-dir="$PROJECT_DIR$/src/kata_5_key">
       <method v="2" />
     </configuration>
     <configuration name="Moving_Zeros_To_The_End.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/kata_5_key/Moving_Zeros_To_The_End.js" working-dir="$PROJECT_DIR$/src/kata_5_key">
@@ -67,16 +69,13 @@
     <configuration name="Sum_of_Digital_Root.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/kata_6_key/Sum_of_Digital_Root.js" working-dir="$PROJECT_DIR$/src/kata_6_key">
       <method v="2" />
     </configuration>
-    <configuration name="Who_likes_it.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/kata_6_key/Who_likes_it.js" working-dir="$PROJECT_DIR$/src/kata_6_key">
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.Human_Readable_Time.js" />
         <item itemvalue="Node.js.Simple_Pig_Latin.js" />
         <item itemvalue="Node.js.Moving_Zeros_To_The_End.js" />
         <item itemvalue="Node.js.Array_diff.js" />
         <item itemvalue="Node.js.Sum_of_Digital_Root.js" />
-        <item itemvalue="Node.js.Who_likes_it.js" />
       </list>
     </recent_temporary>
   </component>
@@ -102,7 +101,8 @@
       <workItem from="1698676477226" duration="9405000" />
       <workItem from="1698758496755" duration="4466000" />
       <workItem from="1698825951473" duration="2231000" />
-      <workItem from="1698908902309" duration="6025000" />
+      <workItem from="1698908902309" duration="6798000" />
+      <workItem from="1699352468147" duration="3727000" />
     </task>
     <task id="LOCAL-00001" summary="factorial">
       <created>1695721666836</created>
@@ -384,7 +384,14 @@
       <option name="project" value="LOCAL" />
       <updated>1698911670735</updated>
     </task>
-    <option name="localTasksCounter" value="41" />
+    <task id="LOCAL-00041" summary="Simple Pig Latin">
+      <created>1698943218481</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1698943218481</updated>
+    </task>
+    <option name="localTasksCounter" value="42" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -414,7 +421,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="max min level7" />
     <MESSAGE value="remove words 7 rey" />
     <MESSAGE value="remove words 7 key" />
     <MESSAGE value="colourAssociation" />
@@ -439,6 +445,7 @@
     <MESSAGE value="6 kyu&#10;Who likes it?!" />
     <MESSAGE value=" digitalRoot" />
     <MESSAGE value="&#10;Array.diff" />
-    <option name="LAST_COMMIT_MESSAGE" value="&#10;Array.diff" />
+    <MESSAGE value="Simple Pig Latin" />
+    <option name="LAST_COMMIT_MESSAGE" value="Simple Pig Latin" />
   </component>
 </project>
