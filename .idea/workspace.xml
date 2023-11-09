@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a6573293-8825-4a61-b33e-db15c0a43077" name="Changes" comment="dirReduc">
+    <list default="true" id="a6573293-8825-4a61-b33e-db15c0a43077" name="Changes" comment="Directions Reduction">
+      <change afterPath="$PROJECT_DIR$/src/kata_5_key/Calculating_with_Functions.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/kata_5_key/Directions_Reduction.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/kata_5_key/Directions_Reduction.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,14 +53,14 @@
     <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2021.3.1\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager" selected="Node.js.Directions_Reduction.js">
+  <component name="RunManager" selected="Node.js.Calculating_with_Functions.js">
+    <configuration name="Calculating_with_Functions.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/kata_5_key/Calculating_with_Functions.js" working-dir="$PROJECT_DIR$/src/kata_5_key">
+      <method v="2" />
+    </configuration>
     <configuration name="Directions_Reduction.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/kata_5_key/Directions_Reduction.js" working-dir="$PROJECT_DIR$/src/kata_5_key">
       <method v="2" />
     </configuration>
     <configuration name="Human_Readable_Time.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/kata_5_key/Human_Readable_Time.js" working-dir="$PROJECT_DIR$/src/kata_5_key">
-      <method v="2" />
-    </configuration>
-    <configuration name="Moving_Zeros_To_The_End.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/kata_5_key/Moving_Zeros_To_The_End.js" working-dir="$PROJECT_DIR$/src/kata_5_key">
       <method v="2" />
     </configuration>
     <configuration name="RGB_To_Hex_Conversion.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/kata_5_key/RGB_To_Hex_Conversion.js" working-dir="$PROJECT_DIR$/src/kata_5_key">
@@ -71,11 +71,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.Calculating_with_Functions.js" />
         <item itemvalue="Node.js.Directions_Reduction.js" />
         <item itemvalue="Node.js.RGB_To_Hex_Conversion.js" />
         <item itemvalue="Node.js.Human_Readable_Time.js" />
         <item itemvalue="Node.js.Simple_Pig_Latin.js" />
-        <item itemvalue="Node.js.Moving_Zeros_To_The_End.js" />
       </list>
     </recent_temporary>
   </component>
@@ -104,7 +104,7 @@
       <workItem from="1698908902309" duration="6798000" />
       <workItem from="1699352468147" duration="16829000" />
       <workItem from="1699441069535" duration="18687000" />
-      <workItem from="1699554529206" duration="777000" />
+      <workItem from="1699554529206" duration="3080000" />
     </task>
     <task id="LOCAL-00001" summary="factorial">
       <created>1695721666836</created>
@@ -414,7 +414,14 @@
       <option name="project" value="LOCAL" />
       <updated>1699372227501</updated>
     </task>
-    <option name="localTasksCounter" value="45" />
+    <task id="LOCAL-00045" summary="Directions Reduction">
+      <created>1699555336247</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1699555336247</updated>
+    </task>
+    <option name="localTasksCounter" value="46" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -444,7 +451,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="colourAssociation done" />
     <MESSAGE value="triangle" />
     <MESSAGE value="trianglef" />
     <MESSAGE value="Javascript_filter.js" />
@@ -469,6 +475,7 @@
     <MESSAGE value="Human Readable Time" />
     <MESSAGE value="RGB To Hex Conversion" />
     <MESSAGE value="dirReduc" />
-    <option name="LAST_COMMIT_MESSAGE" value="dirReduc" />
+    <MESSAGE value="Directions Reduction" />
+    <option name="LAST_COMMIT_MESSAGE" value="Directions Reduction" />
   </component>
 </project>
