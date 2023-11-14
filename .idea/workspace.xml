@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a6573293-8825-4a61-b33e-db15c0a43077" name="Changes" comment="Calculating with Functions">
-      <change beforePath="$PROJECT_DIR$/src/kata_5_key/Product_of_consecutive_Fib_numbers.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/kata_5_key/Product_of_consecutive_Fib_numbers.js" afterDir="false" />
+    <list default="true" id="a6573293-8825-4a61-b33e-db15c0a43077" name="Changes" comment="Calculating with Functionsscac">
+      <change afterPath="$PROJECT_DIR$/src/kata_5_key/Weight_for_weight.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +53,7 @@
     <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2021.3.1\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager" selected="Node.js.Product_of_consecutive_Fib_numbers.js">
+  <component name="RunManager" selected="Node.js.Weight_for_weight.js">
     <configuration name="Calculating_with_Functions.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/kata_5_key/Calculating_with_Functions.js" working-dir="$PROJECT_DIR$/src/kata_5_key">
       <method v="2" />
     </configuration>
@@ -65,16 +66,16 @@
     <configuration name="Product_of_consecutive_Fib_numbers.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/kata_5_key/Product_of_consecutive_Fib_numbers.js" working-dir="$PROJECT_DIR$/src/kata_5_key">
       <method v="2" />
     </configuration>
-    <configuration name="RGB_To_Hex_Conversion.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/kata_5_key/RGB_To_Hex_Conversion.js" working-dir="$PROJECT_DIR$/src/kata_5_key">
+    <configuration name="Weight_for_weight.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/kata_5_key/Weight_for_weight.js" working-dir="$PROJECT_DIR$/src/kata_5_key">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.Weight_for_weight.js" />
         <item itemvalue="Node.js.Product_of_consecutive_Fib_numbers.js" />
         <item itemvalue="Node.js.Maximum_subarray_sum.js" />
         <item itemvalue="Node.js.Calculating_with_Functions.js" />
         <item itemvalue="Node.js.Directions_Reduction.js" />
-        <item itemvalue="Node.js.RGB_To_Hex_Conversion.js" />
       </list>
     </recent_temporary>
   </component>
@@ -105,7 +106,7 @@
       <workItem from="1699441069535" duration="18687000" />
       <workItem from="1699554529206" duration="3689000" />
       <workItem from="1699885088788" duration="4464000" />
-      <workItem from="1699967012137" duration="3178000" />
+      <workItem from="1699967012137" duration="15387000" />
     </task>
     <task id="LOCAL-00001" summary="factorial">
       <created>1695721666836</created>
@@ -443,7 +444,14 @@
       <option name="project" value="LOCAL" />
       <updated>1699969834957</updated>
     </task>
-    <option name="localTasksCounter" value="49" />
+    <task id="LOCAL-00049" summary="Calculating with Functionsscac">
+      <created>1699970249456</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1699970249456</updated>
+    </task>
+    <option name="localTasksCounter" value="50" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -473,7 +481,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="trianglef" />
     <MESSAGE value="Javascript_filter.js" />
     <MESSAGE value="Javascript_filter-1.js" />
     <MESSAGE value="sortList" />
@@ -498,6 +505,7 @@
     <MESSAGE value="dirReduc" />
     <MESSAGE value="Directions Reduction" />
     <MESSAGE value="Calculating with Functions" />
-    <option name="LAST_COMMIT_MESSAGE" value="Calculating with Functions" />
+    <MESSAGE value="Calculating with Functionsscac" />
+    <option name="LAST_COMMIT_MESSAGE" value="Calculating with Functionsscac" />
   </component>
 </project>
