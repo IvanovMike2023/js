@@ -2,12 +2,9 @@ function orderWeight(strng) {
     let mas2 = []
     let mas = strng.split(' ').map((el)=>{
         return Array.from(String(el.toString().split(',')), Number)
-    })
-    mas.map((el)=>{
+    }).map((el)=>{
         mas2.push([el.reduce((a,b)=>a+b).toString(),el.join('')])
-        return  el.reduce((a,b)=>a+b)
     })
-
    let result =mas2.sort((a,b)=> {
         debugger
        if(a[0]===b[0]  ){
@@ -15,12 +12,9 @@ function orderWeight(strng) {
        }
         return  a[0] - b[0]
     }).filter((f)=>f.splice(0,1)).join(' ')
-    console.log(result)
+   console.log(result)
 
-    console.log('112'.charCodeAt(2))
-    console.log('121'.charCodeAt())
-    console.log("ABC".charCodeAt(2))
-    //console.log(result.sort((a,b)=>a[1].charCodeAt()-b[1].charCodeAt()))
+
     }
 
 //assert.strictEqual(orderWeight("103 123 4444 99 2000"), "2000 103 123 4444 99")
