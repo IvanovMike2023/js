@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a6573293-8825-4a61-b33e-db15c0a43077" name="Changes" comment="Weight for weight">
-      <change afterPath="$PROJECT_DIR$/src/kata_5_key/Extract_the_domain_name_from_a_URL.js" afterDir="false" />
+    <list default="true" id="a6573293-8825-4a61-b33e-db15c0a43077" name="Changes" comment="Extract the domain name from a URL">
+      <change afterPath="$PROJECT_DIR$/src/kata_5_key/String_incrementer.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,10 +53,7 @@
     <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2021.3.1\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager" selected="Node.js.Extract_the_domain_name_from_a_URL.js">
-    <configuration name="Calculating_with_Functions.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/kata_5_key/Calculating_with_Functions.js" working-dir="$PROJECT_DIR$/src/kata_5_key">
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Node.js.String_incrementer.js">
     <configuration name="Extract_the_domain_name_from_a_URL.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/kata_5_key/Extract_the_domain_name_from_a_URL.js" working-dir="$PROJECT_DIR$/src/kata_5_key">
       <method v="2" />
     </configuration>
@@ -66,16 +63,19 @@
     <configuration name="Product_of_consecutive_Fib_numbers.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/kata_5_key/Product_of_consecutive_Fib_numbers.js" working-dir="$PROJECT_DIR$/src/kata_5_key">
       <method v="2" />
     </configuration>
+    <configuration name="String_incrementer.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/kata_5_key/String_incrementer.js" working-dir="$PROJECT_DIR$/src/kata_5_key">
+      <method v="2" />
+    </configuration>
     <configuration name="Weight_for_weight.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/kata_5_key/Weight_for_weight.js" working-dir="$PROJECT_DIR$/src/kata_5_key">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.String_incrementer.js" />
         <item itemvalue="Node.js.Extract_the_domain_name_from_a_URL.js" />
         <item itemvalue="Node.js.Weight_for_weight.js" />
         <item itemvalue="Node.js.Product_of_consecutive_Fib_numbers.js" />
         <item itemvalue="Node.js.Maximum_subarray_sum.js" />
-        <item itemvalue="Node.js.Calculating_with_Functions.js" />
       </list>
     </recent_temporary>
   </component>
@@ -107,14 +107,8 @@
       <workItem from="1699554529206" duration="3689000" />
       <workItem from="1699885088788" duration="4464000" />
       <workItem from="1699967012137" duration="15387000" />
-      <workItem from="1700053184913" duration="4051000" />
-    </task>
-    <task id="LOCAL-00002" summary="exponentiation">
-      <created>1695722108316</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1695722108316</updated>
+      <workItem from="1700053184913" duration="6662000" />
+      <workItem from="1700133167176" duration="5498000" />
     </task>
     <task id="LOCAL-00003" summary="exponentiation">
       <created>1695722443388</created>
@@ -452,7 +446,14 @@
       <option name="project" value="LOCAL" />
       <updated>1700053555151</updated>
     </task>
-    <option name="localTasksCounter" value="51" />
+    <task id="LOCAL-00051" summary="Extract the domain name from a URL">
+      <created>1700057396130</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1700057396130</updated>
+    </task>
+    <option name="localTasksCounter" value="52" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -482,7 +483,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Javascript_filter-1.js" />
     <MESSAGE value="sortList" />
     <MESSAGE value="Javascript Namespacing" />
     <MESSAGE value="Operator overload ?" />
@@ -507,6 +507,7 @@
     <MESSAGE value="Calculating with Functions" />
     <MESSAGE value="Calculating with Functionsscac" />
     <MESSAGE value="Weight for weight" />
-    <option name="LAST_COMMIT_MESSAGE" value="Weight for weight" />
+    <MESSAGE value="Extract the domain name from a URL" />
+    <option name="LAST_COMMIT_MESSAGE" value="Extract the domain name from a URL" />
   </component>
 </project>
