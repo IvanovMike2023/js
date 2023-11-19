@@ -1,10 +1,7 @@
 function incrementString (strng) {
-    if(/\d+$/.test(strng)===false){
-        console.log(strng+'1')
-    }else
-    return strng.replace(/\d+$/, (m) =>
-       `${+m + 1}`.padStart(m.length, 0)
+///([0-8]|\d?9+)?$/
+    return console.log(strng.replace(/([0-8]|\d?9+)?$/, (m) =>m? +m+1: 1)
     );
 }
 //incrementString("fo99obar0099")
-incrementString("foo99")
+incrementString("foo")

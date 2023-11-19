@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a6573293-8825-4a61-b33e-db15c0a43077" name="Changes" comment="Extract the domain name from a URL">
-      <change afterPath="$PROJECT_DIR$/src/kata_5_key/String_incrementer.js" afterDir="false" />
+    <list default="true" id="a6573293-8825-4a61-b33e-db15c0a43077" name="Changes" comment="String incrementer">
+      <change afterPath="$PROJECT_DIR$/src/kata_5_key/Scramblies.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/kata_5_key/String_incrementer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/kata_5_key/String_incrementer.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,14 +54,14 @@
     <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2021.3.1\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager" selected="Node.js.String_incrementer.js">
+  <component name="RunManager" selected="Node.js.Scramblies.js">
     <configuration name="Extract_the_domain_name_from_a_URL.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/kata_5_key/Extract_the_domain_name_from_a_URL.js" working-dir="$PROJECT_DIR$/src/kata_5_key">
       <method v="2" />
     </configuration>
-    <configuration name="Maximum_subarray_sum.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/kata_5_key/Maximum_subarray_sum.js" working-dir="$PROJECT_DIR$/src/kata_5_key">
+    <configuration name="Product_of_consecutive_Fib_numbers.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/kata_5_key/Product_of_consecutive_Fib_numbers.js" working-dir="$PROJECT_DIR$/src/kata_5_key">
       <method v="2" />
     </configuration>
-    <configuration name="Product_of_consecutive_Fib_numbers.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/kata_5_key/Product_of_consecutive_Fib_numbers.js" working-dir="$PROJECT_DIR$/src/kata_5_key">
+    <configuration name="Scramblies.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/kata_5_key/Scramblies.js" working-dir="$PROJECT_DIR$/src/kata_5_key">
       <method v="2" />
     </configuration>
     <configuration name="String_incrementer.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/kata_5_key/String_incrementer.js" working-dir="$PROJECT_DIR$/src/kata_5_key">
@@ -71,11 +72,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.Scramblies.js" />
         <item itemvalue="Node.js.String_incrementer.js" />
         <item itemvalue="Node.js.Extract_the_domain_name_from_a_URL.js" />
         <item itemvalue="Node.js.Weight_for_weight.js" />
         <item itemvalue="Node.js.Product_of_consecutive_Fib_numbers.js" />
-        <item itemvalue="Node.js.Maximum_subarray_sum.js" />
       </list>
     </recent_temporary>
   </component>
@@ -108,14 +109,9 @@
       <workItem from="1699885088788" duration="4464000" />
       <workItem from="1699967012137" duration="15387000" />
       <workItem from="1700053184913" duration="6662000" />
-      <workItem from="1700133167176" duration="5498000" />
-    </task>
-    <task id="LOCAL-00003" summary="exponentiation">
-      <created>1695722443388</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1695722443388</updated>
+      <workItem from="1700133167176" duration="6604000" />
+      <workItem from="1700385471305" duration="19394000" />
+      <workItem from="1700428954746" duration="1352000" />
     </task>
     <task id="LOCAL-00004" summary="exponentiation">
       <created>1695722849795</created>
@@ -453,7 +449,14 @@
       <option name="project" value="LOCAL" />
       <updated>1700057396130</updated>
     </task>
-    <option name="localTasksCounter" value="52" />
+    <task id="LOCAL-00052" summary="String incrementer">
+      <created>1700140542749</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1700140542749</updated>
+    </task>
+    <option name="localTasksCounter" value="53" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -483,7 +486,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="sortList" />
     <MESSAGE value="Javascript Namespacing" />
     <MESSAGE value="Operator overload ?" />
     <MESSAGE value="Operator overload" />
@@ -508,6 +510,7 @@
     <MESSAGE value="Calculating with Functionsscac" />
     <MESSAGE value="Weight for weight" />
     <MESSAGE value="Extract the domain name from a URL" />
-    <option name="LAST_COMMIT_MESSAGE" value="Extract the domain name from a URL" />
+    <MESSAGE value="String incrementer" />
+    <option name="LAST_COMMIT_MESSAGE" value="String incrementer" />
   </component>
 </project>
