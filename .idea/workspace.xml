@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a6573293-8825-4a61-b33e-db15c0a43077" name="Changes" comment="String incrementer">
-      <change afterPath="$PROJECT_DIR$/src/kata_5_key/Scramblies.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/kata_5_key/String_incrementer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/kata_5_key/String_incrementer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/kata_5_key/Scramblies.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/kata_5_key/Scramblies.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -111,14 +110,8 @@
       <workItem from="1700053184913" duration="6662000" />
       <workItem from="1700133167176" duration="6604000" />
       <workItem from="1700385471305" duration="19394000" />
-      <workItem from="1700428954746" duration="1352000" />
-    </task>
-    <task id="LOCAL-00004" summary="exponentiation">
-      <created>1695722849795</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1695722849795</updated>
+      <workItem from="1700428954746" duration="1609000" />
+      <workItem from="1700508828005" duration="6330000" />
     </task>
     <task id="LOCAL-00005" summary="add m2">
       <created>1695722945508</created>
@@ -456,7 +449,14 @@
       <option name="project" value="LOCAL" />
       <updated>1700140542749</updated>
     </task>
-    <option name="localTasksCounter" value="53" />
+    <task id="LOCAL-00053" summary="String incrementer">
+      <created>1700430629920</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1700430629920</updated>
+    </task>
+    <option name="localTasksCounter" value="54" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

@@ -1,16 +1,19 @@
 function scramble(str1, str2) {
+    str1 = str1.split('')
+    str2 = str2.split('')
     debugger
-    console.log(str1.split(str2[2],1).join(''))
-    for(let i=0;i<str2.length;i++){
-        console.log(str1.length)
-        console.log(str1)
-        if(str1.indexOf(str2[i])>-1){
-        str1= str1.replace(str2[i],'')
+    for(let i=0;i<str1.length;i++){
+       //console.log( str1.includes(str2[i]))
+
+        if(str2.includes(str1[i])){
+             //str1.splice(b,1)
+            //console.log(str2.filter(f)=>f=)
+           //return console.log(true)
         }else return console.log(false)
     }
     return console.log(true)
 }
-scramble('scriptjavx',        'jvascript')// ==> True
+scramble('scriptjavxfec',        'jvascript')// ==> True
 //     ..Array.prototype.diff = function(a) {
 //     return this.filter(function(i) {return !(a.indexOf(i) > -1);});
 // };
