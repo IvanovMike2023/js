@@ -1,19 +1,17 @@
 function scramble(str1, str2) {
-    str1 = str1.split('')
     str2 = str2.split('')
-    debugger
-    for(let i=0;i<str1.length;i++){
-       //console.log( str1.includes(str2[i]))
-
-        if(str2.includes(str1[i])){
-             //str1.splice(b,1)
-            //console.log(str2.filter(f)=>f=)
-           //return console.log(true)
-        }else return console.log(false)
+    str1 = str1.split('')
+    let counter=0
+str2.forEach((x)=>{
+    if(str1.indexOf(x)>-1){
+        counter+=1
+        str1.splice(str1.indexOf(x),1)
     }
-    return console.log(true)
+})
+    return counter===str2.length ? true : false
 }
-scramble('scriptjavxfec',        'jvascript')// ==> True
+scramble('scriptingjava',     'ajvascript' )// ==> True
+//scramble('ssssssscript',     'ascript' )// ==> True
 //     ..Array.prototype.diff = function(a) {
 //     return this.filter(function(i) {return !(a.indexOf(i) > -1);});
 // };

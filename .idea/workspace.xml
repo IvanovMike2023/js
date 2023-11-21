@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a6573293-8825-4a61-b33e-db15c0a43077" name="Changes" comment="String incrementer">
+    <list default="true" id="a6573293-8825-4a61-b33e-db15c0a43077" name="Changes" comment="String incrementerчфчфчф">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/kata_5_key/Scramblies.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/kata_5_key/Scramblies.js" afterDir="false" />
     </list>
@@ -112,13 +112,8 @@
       <workItem from="1700385471305" duration="19394000" />
       <workItem from="1700428954746" duration="1609000" />
       <workItem from="1700508828005" duration="6330000" />
-    </task>
-    <task id="LOCAL-00005" summary="add m2">
-      <created>1695722945508</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1695722945508</updated>
+      <workItem from="1700515446563" duration="20000" />
+      <workItem from="1700551394224" duration="12993000" />
     </task>
     <task id="LOCAL-00006" summary="add m2">
       <created>1695722963151</created>
@@ -456,7 +451,14 @@
       <option name="project" value="LOCAL" />
       <updated>1700430629920</updated>
     </task>
-    <option name="localTasksCounter" value="54" />
+    <task id="LOCAL-00054" summary="String incrementerчфчфчф">
+      <created>1700515464407</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1700515464407</updated>
+    </task>
+    <option name="localTasksCounter" value="55" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -486,7 +488,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Javascript Namespacing" />
     <MESSAGE value="Operator overload ?" />
     <MESSAGE value="Operator overload" />
     <MESSAGE value="String.prototype.reverse" />
@@ -511,6 +512,7 @@
     <MESSAGE value="Weight for weight" />
     <MESSAGE value="Extract the domain name from a URL" />
     <MESSAGE value="String incrementer" />
-    <option name="LAST_COMMIT_MESSAGE" value="String incrementer" />
+    <MESSAGE value="String incrementerчфчфчф" />
+    <option name="LAST_COMMIT_MESSAGE" value="String incrementerчфчфчф" />
   </component>
 </project>
