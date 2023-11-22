@@ -60,12 +60,6 @@ function score( dice ) {
     if(count5===1){
         res+=50
     }
-    console.log(count5)
-    console.log(count4)
-    console.log(count3)
-    console.log(count1)
-    console.log(count2)
-    console.log(res)
 }
 score( [1, 1, 1, 1, 3]) //"Should be 450"
 
