@@ -1,31 +1,21 @@
 function primeFactors(n) {
-    let arr_prime_factors = []
-    for (let i = 2; i < Math.sqrt(n); i++) {
+    let res = ''
+    for (let i = 2; i <= n; i++) {
+        let count = 0
         while (n % i == 0) {
-            arr_prime_factors.push(i)
+            count++
             n /= i
         }
-    }
-    if (n != 1) {
-        arr_prime_factors.push(n)
-    }
-    arr_prime_factors = arr_prime_factors.reduce((acc, i) => {
-        if (acc.hasOwnProperty(i)) {
-            acc[i] += 1;
-        } else {
-            acc[i] = 1;
-        }
-        return acc;
-    }, {})
-    let result = ''
-    for (let [key, value] of Object.entries(arr_prime_factors)) {
-        if (value == 1) {
-            result += `(${key})`
-        } else {
-            result += `(${key}**${value})`
+        if (count != 0) {
+            res += `(${i}`
+            if (count > 1) {
+                res += `**${count}`
+            }
+            res += `)`
         }
     }
-    console.log(result)
+    res += ')'
+    return res
 }
 
 primeFactors(7775460)//223

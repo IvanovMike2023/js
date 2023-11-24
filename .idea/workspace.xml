@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a6573293-8825-4a61-b33e-db15c0a43077" name="Changes" comment="+++++">
-      <change afterPath="$PROJECT_DIR$/src/kata_5_key/Primes_in_numbers.js" afterDir="false" />
+    <list default="true" id="a6573293-8825-4a61-b33e-db15c0a43077" name="Changes" comment="prime factors">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/kata_5_key/Greed_is_Good.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/kata_5_key/Greed_is_Good.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/kata_5_key/Primes_in_numbers.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/kata_5_key/Primes_in_numbers.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -117,14 +116,7 @@
       <workItem from="1700551394224" duration="14610000" />
       <workItem from="1700657688290" duration="13904000" />
       <workItem from="1700684567601" duration="184000" />
-      <workItem from="1700827479610" duration="6353000" />
-    </task>
-    <task id="LOCAL-00010" summary="repeat">
-      <created>1695725522121</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1695725522121</updated>
+      <workItem from="1700827479610" duration="7453000" />
     </task>
     <task id="LOCAL-00011" summary="repeat add">
       <created>1695725599324</created>
@@ -462,7 +454,14 @@
       <option name="project" value="LOCAL" />
       <updated>1700684229921</updated>
     </task>
-    <option name="localTasksCounter" value="59" />
+    <task id="LOCAL-00059" summary="prime factors">
+      <created>1700838834559</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1700838834559</updated>
+    </task>
+    <option name="localTasksCounter" value="60" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -492,7 +491,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Number-like counter" />
     <MESSAGE value="The Power of Exponents" />
     <MESSAGE value="isAN(value)" />
     <MESSAGE value="Singleton Pattern" />
@@ -517,6 +515,7 @@
     <MESSAGE value="-----------" />
     <MESSAGE value="+-" />
     <MESSAGE value="+++++" />
-    <option name="LAST_COMMIT_MESSAGE" value="+++++" />
+    <MESSAGE value="prime factors" />
+    <option name="LAST_COMMIT_MESSAGE" value="prime factors" />
   </component>
 </project>
