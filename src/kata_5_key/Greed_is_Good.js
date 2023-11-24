@@ -56,7 +56,6 @@ function score( dice ) {
     if(count1>1<3){
         res+=100*count1
     }
-
     if(count5===1){
         res+=50
     }

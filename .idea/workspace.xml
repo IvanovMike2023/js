@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a6573293-8825-4a61-b33e-db15c0a43077" name="Changes" comment="+-">
-      <change afterPath="$PROJECT_DIR$/src/kata_5_key/Greed_is_Good.js" afterDir="false" />
+    <list default="true" id="a6573293-8825-4a61-b33e-db15c0a43077" name="Changes" comment="+++++">
+      <change afterPath="$PROJECT_DIR$/src/kata_5_key/Primes_in_numbers.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/kata_5_key/Greed_is_Good.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/kata_5_key/Greed_is_Good.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,11 +54,11 @@
     <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2021.3.1\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager" selected="Node.js.Greed_is_Good.js">
-    <configuration name="Extract_the_domain_name_from_a_URL.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/kata_5_key/Extract_the_domain_name_from_a_URL.js" working-dir="$PROJECT_DIR$/src/kata_5_key">
+  <component name="RunManager" selected="Node.js.Primes_in_numbers.js">
+    <configuration name="Greed_is_Good.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/kata_5_key/Greed_is_Good.js" working-dir="$PROJECT_DIR$/src/kata_5_key">
       <method v="2" />
     </configuration>
-    <configuration name="Greed_is_Good.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/kata_5_key/Greed_is_Good.js" working-dir="$PROJECT_DIR$/src/kata_5_key">
+    <configuration name="Primes_in_numbers.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/kata_5_key/Primes_in_numbers.js" working-dir="$PROJECT_DIR$/src/kata_5_key">
       <method v="2" />
     </configuration>
     <configuration name="Scramblies.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/kata_5_key/Scramblies.js" working-dir="$PROJECT_DIR$/src/kata_5_key">
@@ -71,11 +72,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.Primes_in_numbers.js" />
         <item itemvalue="Node.js.Greed_is_Good.js" />
         <item itemvalue="Node.js.Sum_of_Pairs.js" />
         <item itemvalue="Node.js.Scramblies.js" />
         <item itemvalue="Node.js.String_incrementer.js" />
-        <item itemvalue="Node.js.Extract_the_domain_name_from_a_URL.js" />
       </list>
     </recent_temporary>
   </component>
@@ -114,21 +115,9 @@
       <workItem from="1700508828005" duration="6330000" />
       <workItem from="1700515446563" duration="20000" />
       <workItem from="1700551394224" duration="14610000" />
-      <workItem from="1700657688290" duration="13625000" />
-    </task>
-    <task id="LOCAL-00008" summary="add m2vd d">
-      <created>1695723230695</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1695723230695</updated>
-    </task>
-    <task id="LOCAL-00009" summary="add m2vd ccc">
-      <created>1695725273845</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1695725273845</updated>
+      <workItem from="1700657688290" duration="13904000" />
+      <workItem from="1700684567601" duration="184000" />
+      <workItem from="1700827479610" duration="6353000" />
     </task>
     <task id="LOCAL-00010" summary="repeat">
       <created>1695725522121</created>
@@ -459,7 +448,21 @@
       <option name="project" value="LOCAL" />
       <updated>1700662726620</updated>
     </task>
-    <option name="localTasksCounter" value="57" />
+    <task id="LOCAL-00057" summary="+-">
+      <created>1700684200254</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1700684200254</updated>
+    </task>
+    <task id="LOCAL-00058" summary="+++++">
+      <created>1700684229921</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1700684229921</updated>
+    </task>
+    <option name="localTasksCounter" value="59" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -489,7 +492,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="String.prototype.reverse" />
     <MESSAGE value="Number-like counter" />
     <MESSAGE value="The Power of Exponents" />
     <MESSAGE value="isAN(value)" />
@@ -514,6 +516,7 @@
     <MESSAGE value="String incrementerчфчфчф" />
     <MESSAGE value="-----------" />
     <MESSAGE value="+-" />
-    <option name="LAST_COMMIT_MESSAGE" value="+-" />
+    <MESSAGE value="+++++" />
+    <option name="LAST_COMMIT_MESSAGE" value="+++++" />
   </component>
 </project>
