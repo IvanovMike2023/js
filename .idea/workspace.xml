@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a6573293-8825-4a61-b33e-db15c0a43077" name="Changes" comment="prime factors">
+    <list default="true" id="a6573293-8825-4a61-b33e-db15c0a43077" name="Changes" comment="prime factors +">
+      <change afterPath="$PROJECT_DIR$/src/kata_5_key/Integers_Recreation_One.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/kata_5_key/Primes_in_numbers.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/kata_5_key/Primes_in_numbers.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,8 +53,11 @@
     <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2021.3.1\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager" selected="Node.js.Primes_in_numbers.js">
+  <component name="RunManager" selected="Node.js.Integers_Recreation_One.js">
     <configuration name="Greed_is_Good.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/kata_5_key/Greed_is_Good.js" working-dir="$PROJECT_DIR$/src/kata_5_key">
+      <method v="2" />
+    </configuration>
+    <configuration name="Integers_Recreation_One.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/kata_5_key/Integers_Recreation_One.js" working-dir="$PROJECT_DIR$/src/kata_5_key">
       <method v="2" />
     </configuration>
     <configuration name="Primes_in_numbers.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/kata_5_key/Primes_in_numbers.js" working-dir="$PROJECT_DIR$/src/kata_5_key">
@@ -63,19 +66,16 @@
     <configuration name="Scramblies.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/kata_5_key/Scramblies.js" working-dir="$PROJECT_DIR$/src/kata_5_key">
       <method v="2" />
     </configuration>
-    <configuration name="String_incrementer.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/kata_5_key/String_incrementer.js" working-dir="$PROJECT_DIR$/src/kata_5_key">
-      <method v="2" />
-    </configuration>
     <configuration name="Sum_of_Pairs.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/kata_5_key/Sum_of_Pairs.js" working-dir="$PROJECT_DIR$/src/kata_5_key">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.Integers_Recreation_One.js" />
         <item itemvalue="Node.js.Primes_in_numbers.js" />
         <item itemvalue="Node.js.Greed_is_Good.js" />
         <item itemvalue="Node.js.Sum_of_Pairs.js" />
         <item itemvalue="Node.js.Scramblies.js" />
-        <item itemvalue="Node.js.String_incrementer.js" />
       </list>
     </recent_temporary>
   </component>
@@ -116,14 +116,8 @@
       <workItem from="1700551394224" duration="14610000" />
       <workItem from="1700657688290" duration="13904000" />
       <workItem from="1700684567601" duration="184000" />
-      <workItem from="1700827479610" duration="7453000" />
-    </task>
-    <task id="LOCAL-00011" summary="repeat add">
-      <created>1695725599324</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1695725599324</updated>
+      <workItem from="1700827479610" duration="8238000" />
+      <workItem from="1701024109818" duration="4189000" />
     </task>
     <task id="LOCAL-00012" summary="main commit">
       <created>1695725691305</created>
@@ -461,7 +455,14 @@
       <option name="project" value="LOCAL" />
       <updated>1700838834559</updated>
     </task>
-    <option name="localTasksCounter" value="60" />
+    <task id="LOCAL-00060" summary="prime factors +">
+      <created>1700840107034</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1700840107034</updated>
+    </task>
+    <option name="localTasksCounter" value="61" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -491,7 +492,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="The Power of Exponents" />
     <MESSAGE value="isAN(value)" />
     <MESSAGE value="Singleton Pattern" />
     <MESSAGE value="isLeapYear" />
@@ -516,6 +516,7 @@
     <MESSAGE value="+-" />
     <MESSAGE value="+++++" />
     <MESSAGE value="prime factors" />
-    <option name="LAST_COMMIT_MESSAGE" value="prime factors" />
+    <MESSAGE value="prime factors +" />
+    <option name="LAST_COMMIT_MESSAGE" value="prime factors +" />
   </component>
 </project>
