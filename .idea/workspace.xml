@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a6573293-8825-4a61-b33e-db15c0a43077" name="Changes" comment="Integers: Recreation One">
-      <change afterPath="$PROJECT_DIR$/src/kata_5_key/Number_of_trailing_zeros_of_N.js" afterDir="false" />
+    <list default="true" id="a6573293-8825-4a61-b33e-db15c0a43077" name="Changes" comment="Number of trailing zeros of N!">
+      <change afterPath="$PROJECT_DIR$/src/kata_5_key/Pete_the_baker.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,7 +53,7 @@
     <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2021.3.1\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager" selected="Node.js.Number_of_trailing_zeros_of_N.js">
+  <component name="RunManager" selected="Node.js.Pete_the_baker.js">
     <configuration name="Greed_is_Good.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/kata_5_key/Greed_is_Good.js" working-dir="$PROJECT_DIR$/src/kata_5_key">
       <method v="2" />
     </configuration>
@@ -63,19 +63,19 @@
     <configuration name="Number_of_trailing_zeros_of_N.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/kata_5_key/Number_of_trailing_zeros_of_N.js" working-dir="$PROJECT_DIR$/src/kata_5_key">
       <method v="2" />
     </configuration>
-    <configuration name="Primes_in_numbers.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/kata_5_key/Primes_in_numbers.js" working-dir="$PROJECT_DIR$/src/kata_5_key">
+    <configuration name="Pete_the_baker.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/kata_5_key/Pete_the_baker.js" working-dir="$PROJECT_DIR$/src/kata_5_key">
       <method v="2" />
     </configuration>
-    <configuration name="Sum_of_Pairs.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/kata_5_key/Sum_of_Pairs.js" working-dir="$PROJECT_DIR$/src/kata_5_key">
+    <configuration name="Primes_in_numbers.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/kata_5_key/Primes_in_numbers.js" working-dir="$PROJECT_DIR$/src/kata_5_key">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.Pete_the_baker.js" />
         <item itemvalue="Node.js.Number_of_trailing_zeros_of_N.js" />
         <item itemvalue="Node.js.Integers_Recreation_One.js" />
         <item itemvalue="Node.js.Primes_in_numbers.js" />
         <item itemvalue="Node.js.Greed_is_Good.js" />
-        <item itemvalue="Node.js.Sum_of_Pairs.js" />
       </list>
     </recent_temporary>
   </component>
@@ -118,14 +118,7 @@
       <workItem from="1700684567601" duration="184000" />
       <workItem from="1700827479610" duration="8238000" />
       <workItem from="1701024109818" duration="4915000" />
-      <workItem from="1701184075883" duration="6341000" />
-    </task>
-    <task id="LOCAL-00013" summary="main commit2">
-      <created>1695725755160</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1695725755160</updated>
+      <workItem from="1701184075883" duration="10941000" />
     </task>
     <task id="LOCAL-00014" summary="reverse number">
       <created>1695906677154</created>
@@ -463,7 +456,14 @@
       <option name="project" value="LOCAL" />
       <updated>1701028620470</updated>
     </task>
-    <option name="localTasksCounter" value="62" />
+    <task id="LOCAL-00062" summary="Number of trailing zeros of N!">
+      <created>1701192197914</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1701192197914</updated>
+    </task>
+    <option name="localTasksCounter" value="63" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -493,7 +493,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Singleton Pattern" />
     <MESSAGE value="isLeapYear" />
     <MESSAGE value="Multiples of 3 or 5" />
     <MESSAGE value="Find the odd int" />
@@ -518,6 +517,7 @@
     <MESSAGE value="prime factors" />
     <MESSAGE value="prime factors +" />
     <MESSAGE value="Integers: Recreation One" />
-    <option name="LAST_COMMIT_MESSAGE" value="Integers: Recreation One" />
+    <MESSAGE value="Number of trailing zeros of N!" />
+    <option name="LAST_COMMIT_MESSAGE" value="Number of trailing zeros of N!" />
   </component>
 </project>
