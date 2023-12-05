@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a6573293-8825-4a61-b33e-db15c0a43077" name="Changes" comment="countBits">
-      <change afterPath="$PROJECT_DIR$/src/kata_6_key/Find_The_Parity_Outlier.js" afterDir="false" />
+    <list default="true" id="a6573293-8825-4a61-b33e-db15c0a43077" name="Changes" comment="Find The Parity Outlier">
+      <change afterPath="$PROJECT_DIR$/src/Promise/promise_setTimeout.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +53,7 @@
     <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2021.3.1\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager" selected="Node.js.Find_The_Parity_Outlier.js">
+  <component name="RunManager" selected="Node.js.promise_setTimeout.js">
     <configuration name="Bit_Counting.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/kata_6_key/Bit_Counting.js" working-dir="$PROJECT_DIR$/src/kata_6_key">
       <method v="2" />
     </configuration>
@@ -62,19 +63,19 @@
     <configuration name="First_non_repeating_character.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/kata_5_key/First_non_repeating_character.js" working-dir="$PROJECT_DIR$/src/kata_5_key">
       <method v="2" />
     </configuration>
-    <configuration name="Number_of_trailing_zeros_of_N.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/kata_5_key/Number_of_trailing_zeros_of_N.js" working-dir="$PROJECT_DIR$/src/kata_5_key">
+    <configuration name="Pete_the_baker.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/kata_5_key/Pete_the_baker.js" working-dir="$PROJECT_DIR$/src/kata_5_key">
       <method v="2" />
     </configuration>
-    <configuration name="Pete_the_baker.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/kata_5_key/Pete_the_baker.js" working-dir="$PROJECT_DIR$/src/kata_5_key">
+    <configuration name="promise_setTimeout.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/Promise/promise_setTimeout.js" working-dir="$PROJECT_DIR$/src/Promise">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.promise_setTimeout.js" />
         <item itemvalue="Node.js.Find_The_Parity_Outlier.js" />
         <item itemvalue="Node.js.Bit_Counting.js" />
         <item itemvalue="Node.js.First_non_repeating_character.js" />
         <item itemvalue="Node.js.Pete_the_baker.js" />
-        <item itemvalue="Node.js.Number_of_trailing_zeros_of_N.js" />
       </list>
     </recent_temporary>
   </component>
@@ -119,14 +120,8 @@
       <workItem from="1701024109818" duration="4915000" />
       <workItem from="1701184075883" duration="10941000" />
       <workItem from="1701252498141" duration="8558000" />
-      <workItem from="1701746300766" duration="1050000" />
-    </task>
-    <task id="LOCAL-00016" summary="remove words 7 rey">
-      <created>1696797906587</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1696797906587</updated>
+      <workItem from="1701746300766" duration="1902000" />
+      <workItem from="1701783751469" duration="2416000" />
     </task>
     <task id="LOCAL-00017" summary="remove words 7 key">
       <created>1696797945116</created>
@@ -464,7 +459,14 @@
       <option name="project" value="LOCAL" />
       <updated>1701746940510</updated>
     </task>
-    <option name="localTasksCounter" value="65" />
+    <task id="LOCAL-00065" summary="Find The Parity Outlier">
+      <created>1701747611501</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1701747611501</updated>
+    </task>
+    <option name="localTasksCounter" value="66" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -494,7 +496,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Find the odd int" />
     <MESSAGE value="6 kyu&#10;Who likes it?" />
     <MESSAGE value="6 kyu&#10;Who likes it?!" />
     <MESSAGE value=" digitalRoot" />
@@ -519,6 +520,7 @@
     <MESSAGE value="Number of trailing zeros of N!" />
     <MESSAGE value="First non-repeating character" />
     <MESSAGE value="countBits" />
-    <option name="LAST_COMMIT_MESSAGE" value="countBits" />
+    <MESSAGE value="Find The Parity Outlier" />
+    <option name="LAST_COMMIT_MESSAGE" value="Find The Parity Outlier" />
   </component>
 </project>
