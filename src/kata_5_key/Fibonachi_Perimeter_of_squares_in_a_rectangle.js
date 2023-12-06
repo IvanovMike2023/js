@@ -21,6 +21,7 @@ function perimeter(n) {
     }
 
     fibi(n+1)
+
     return result
 }
 

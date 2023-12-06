@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a6573293-8825-4a61-b33e-db15c0a43077" name="Changes" comment="promise">
-      <change afterPath="$PROJECT_DIR$/src/kata_5_key/Fibonachi_Perimeter_of_squares_in_a_rectangle.js" afterDir="false" />
+    <list default="true" id="a6573293-8825-4a61-b33e-db15c0a43077" name="Changes" comment="Fibonachi_Perimeter_of_squares_in_a_rectangle.js">
+      <change afterPath="$PROJECT_DIR$/src/kata_5_key/PaginationHelper.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/kata_5_key/Fibonachi_Perimeter_of_squares_in_a_rectangle.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/kata_5_key/Fibonachi_Perimeter_of_squares_in_a_rectangle.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +54,7 @@
     <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2021.3.1\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager" selected="Node.js.Fibonachi_Perimeter_of_squares_in_a_rectangle.js">
+  <component name="RunManager" selected="Node.js.PaginationHelper.js">
     <configuration name="Bit_Counting.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/kata_6_key/Bit_Counting.js" working-dir="$PROJECT_DIR$/src/kata_6_key">
       <method v="2" />
     </configuration>
@@ -63,7 +64,7 @@
     <configuration name="Find_The_Parity_Outlier.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/kata_6_key/Find_The_Parity_Outlier.js" working-dir="$PROJECT_DIR$/src/kata_6_key">
       <method v="2" />
     </configuration>
-    <configuration name="First_non_repeating_character.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/kata_5_key/First_non_repeating_character.js" working-dir="$PROJECT_DIR$/src/kata_5_key">
+    <configuration name="PaginationHelper.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/kata_5_key/PaginationHelper.js" working-dir="$PROJECT_DIR$/src/kata_5_key">
       <method v="2" />
     </configuration>
     <configuration name="promise_setTimeout.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/Promise/promise_setTimeout.js" working-dir="$PROJECT_DIR$/src/Promise">
@@ -71,11 +72,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.PaginationHelper.js" />
         <item itemvalue="Node.js.Fibonachi_Perimeter_of_squares_in_a_rectangle.js" />
         <item itemvalue="Node.js.promise_setTimeout.js" />
         <item itemvalue="Node.js.Find_The_Parity_Outlier.js" />
         <item itemvalue="Node.js.Bit_Counting.js" />
-        <item itemvalue="Node.js.First_non_repeating_character.js" />
       </list>
     </recent_temporary>
   </component>
@@ -122,14 +123,7 @@
       <workItem from="1701252498141" duration="8558000" />
       <workItem from="1701746300766" duration="1902000" />
       <workItem from="1701783751469" duration="2435000" />
-      <workItem from="1701848846384" duration="2100000" />
-    </task>
-    <task id="LOCAL-00018" summary="colourAssociation">
-      <created>1696883993032</created>
-      <option name="number" value="00018" />
-      <option name="presentableId" value="LOCAL-00018" />
-      <option name="project" value="LOCAL" />
-      <updated>1696883993032</updated>
+      <workItem from="1701848846384" duration="12059000" />
     </task>
     <task id="LOCAL-00019" summary="colourAssociation done">
       <created>1697041625073</created>
@@ -467,7 +461,14 @@
       <option name="project" value="LOCAL" />
       <updated>1701791217951</updated>
     </task>
-    <option name="localTasksCounter" value="67" />
+    <task id="LOCAL-00067" summary="Fibonachi_Perimeter_of_squares_in_a_rectangle.js">
+      <created>1701850972965</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1701850972965</updated>
+    </task>
+    <option name="localTasksCounter" value="68" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -497,7 +498,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="6 kyu&#10;Who likes it?!" />
     <MESSAGE value=" digitalRoot" />
     <MESSAGE value="&#10;Array.diff" />
     <MESSAGE value="Simple Pig Latin" />
@@ -522,6 +522,7 @@
     <MESSAGE value="countBits" />
     <MESSAGE value="Find The Parity Outlier" />
     <MESSAGE value="promise" />
-    <option name="LAST_COMMIT_MESSAGE" value="promise" />
+    <MESSAGE value="Fibonachi_Perimeter_of_squares_in_a_rectangle.js" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fibonachi_Perimeter_of_squares_in_a_rectangle.js" />
   </component>
 </project>
