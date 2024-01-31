@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a6573293-8825-4a61-b33e-db15c0a43077" name="Changes" comment="promise2">
-      <change afterPath="$PROJECT_DIR$/src/kata_5_key/Regex_Password_Validation.js" afterDir="false" />
+    <list default="true" id="a6573293-8825-4a61-b33e-db15c0a43077" name="Changes" comment="Regex Password Validation">
+      <change afterPath="$PROJECT_DIR$/src/promise.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,11 +53,11 @@
     <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2021.3.1\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager" selected="Node.js.Regex_Password_Validation.js">
-    <configuration name="Fibonachi_Perimeter_of_squares_in_a_rectangle.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/kata_5_key/Fibonachi_Perimeter_of_squares_in_a_rectangle.js" working-dir="$PROJECT_DIR$/src/kata_5_key">
+  <component name="RunManager" selected="Node.js.promise.js">
+    <configuration name="promise.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/js/src/promise.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="PaginationHelper.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/kata_5_key/PaginationHelper.js" working-dir="$PROJECT_DIR$/src/kata_5_key">
+    <configuration name="Calculating_with_Functions.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/kata_5_key/Calculating_with_Functions.js" working-dir="$PROJECT_DIR$/src/kata_5_key">
       <method v="2" />
     </configuration>
     <configuration name="Regex_Password_Validation.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/kata_5_key/Regex_Password_Validation.js" working-dir="$PROJECT_DIR$/src/kata_5_key">
@@ -66,16 +66,16 @@
     <configuration name="promise2.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/Promise/promise2.js" working-dir="$PROJECT_DIR$/src/Promise">
       <method v="2" />
     </configuration>
-    <configuration name="promise_setTimeout.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/Promise/promise_setTimeout.js" working-dir="$PROJECT_DIR$/src/Promise">
+    <configuration name="promise.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/promise.js" working-dir="$PROJECT_DIR$/src">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.promise.js" />
+        <item itemvalue="JavaScript Debug.promise.html" />
+        <item itemvalue="Node.js.Calculating_with_Functions.js" />
         <item itemvalue="Node.js.Regex_Password_Validation.js" />
         <item itemvalue="Node.js.promise2.js" />
-        <item itemvalue="Node.js.PaginationHelper.js" />
-        <item itemvalue="Node.js.Fibonachi_Perimeter_of_squares_in_a_rectangle.js" />
-        <item itemvalue="Node.js.promise_setTimeout.js" />
       </list>
     </recent_temporary>
   </component>
@@ -125,14 +125,9 @@
       <workItem from="1701848846384" duration="15975000" />
       <workItem from="1701936026567" duration="2160000" />
       <workItem from="1701955715804" duration="45000" />
-      <workItem from="1703590005587" duration="7376000" />
-    </task>
-    <task id="LOCAL-00021" summary="trianglef">
-      <created>1697056536321</created>
-      <option name="number" value="00021" />
-      <option name="presentableId" value="LOCAL-00021" />
-      <option name="project" value="LOCAL" />
-      <updated>1697056536321</updated>
+      <workItem from="1703590005587" duration="8165000" />
+      <workItem from="1704196364833" duration="44000" />
+      <workItem from="1706694549021" duration="41000" />
     </task>
     <task id="LOCAL-00022" summary="Javascript_filter.js">
       <created>1698050074400</created>
@@ -470,7 +465,14 @@
       <option name="project" value="LOCAL" />
       <updated>1701938106328</updated>
     </task>
-    <option name="localTasksCounter" value="70" />
+    <task id="LOCAL-00070" summary="Regex Password Validation">
+      <created>1703601485129</created>
+      <option name="number" value="00070" />
+      <option name="presentableId" value="LOCAL-00070" />
+      <option name="project" value="LOCAL" />
+      <updated>1703601485129</updated>
+    </task>
+    <option name="localTasksCounter" value="71" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -500,7 +502,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Simple Pig Latin" />
     <MESSAGE value="Human Readable Time" />
     <MESSAGE value="RGB To Hex Conversion" />
     <MESSAGE value="dirReduc" />
@@ -525,6 +526,7 @@
     <MESSAGE value="Fibonachi_Perimeter_of_squares_in_a_rectangle.js" />
     <MESSAGE value="class" />
     <MESSAGE value="promise2" />
-    <option name="LAST_COMMIT_MESSAGE" value="promise2" />
+    <MESSAGE value="Regex Password Validation" />
+    <option name="LAST_COMMIT_MESSAGE" value="Regex Password Validation" />
   </component>
 </project>
