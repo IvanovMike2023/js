@@ -3,7 +3,7 @@ const UsersActions = (users)=>{
         users: users,
         site: 'It incubators',
         vvod(){
-            console.log(`'Hellow' ${this.users}`)
+            console.log(`Hellow I'm  ${this.users} from ${this.site}`)
         }
     }
     return action
