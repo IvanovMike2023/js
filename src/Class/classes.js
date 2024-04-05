@@ -20,17 +20,18 @@ class User {
     hellow() {
         console.log(`Hellow I'm  ${this.name} from ${this.site}`)
     }
-    getname(){
+
+    get names() {
         return this.name
     }
-    setname(newname){
-        return this.name=newname
+
+    set names(newname) {
+        this.name = newname
     }
 }
 
 const u3 = new User('Julia', 'It Incubators')
 //console.log(u3)
-u3.hellow()
-u3.setname('Juliaa')
-console.log(u3.getname())
-u3.hellow()
+//u3.hellow()
+u3.names = 'Julia!'
+console.log(u3.name)
