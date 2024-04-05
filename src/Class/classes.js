@@ -9,19 +9,28 @@ const UsersActions = (users) => {
     return action
 }
 const user1 = UsersActions('Mike')
-//console.log(user1.vvod())
 user1.vvod()
 
-class User{
+class User {
     constructor(name, site) {
         this.name = name;
         this.site = site
     }
-    hellow(){
-    console.log(`Hellow I'm  ${this.name} from ${this.site}`)
-}
+
+    hellow() {
+        console.log(`Hellow I'm  ${this.name} from ${this.site}`)
+    }
+    getname(){
+        return this.name
+    }
+    setname(newname){
+        return this.name=newname
+    }
 }
 
 const u3 = new User('Julia', 'It Incubators')
 //console.log(u3)
+u3.hellow()
+u3.setname('Juliaa')
+console.log(u3.getname())
 u3.hellow()
