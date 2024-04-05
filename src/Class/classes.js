@@ -1,8 +1,8 @@
-const UsersActions = (users)=>{
-    const action={
+const UsersActions = (users) => {
+    const action = {
         users: users,
         site: 'It incubators',
-        vvod(){
+        vvod() {
             console.log(`Hellow I'm  ${this.users} from ${this.site}`)
         }
     }
@@ -11,3 +11,17 @@ const UsersActions = (users)=>{
 const user1 = UsersActions('Mike')
 //console.log(user1.vvod())
 user1.vvod()
+
+class User{
+    constructor(name, site) {
+        this.name = name;
+        this.site = site
+    }
+    hellow(){
+    console.log(`Hellow I'm  ${this.name} from ${this.site}`)
+}
+}
+
+const u3 = new User('Julia', 'It Incubators')
+//console.log(u3)
+u3.hellow()
