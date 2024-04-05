@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a6573293-8825-4a61-b33e-db15c0a43077" name="Changes" comment="Class getter setter">
+    <list default="true" id="a6573293-8825-4a61-b33e-db15c0a43077" name="Changes" comment="Class getter наследование">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Class/classes.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Class/classes.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -128,14 +129,7 @@
       <workItem from="1704196364833" duration="44000" />
       <workItem from="1706694549021" duration="248000" />
       <workItem from="1706869550814" duration="23000" />
-      <workItem from="1712309514270" duration="21212000" />
-    </task>
-    <task id="LOCAL-00029" summary="String.prototype.reverse">
-      <created>1698230021307</created>
-      <option name="number" value="00029" />
-      <option name="presentableId" value="LOCAL-00029" />
-      <option name="project" value="LOCAL" />
-      <updated>1698230021307</updated>
+      <workItem from="1712309514270" duration="22770000" />
     </task>
     <task id="LOCAL-00030" summary="Number-like counter">
       <created>1698244384898</created>
@@ -473,7 +467,14 @@
       <option name="project" value="LOCAL" />
       <updated>1712344581370</updated>
     </task>
-    <option name="localTasksCounter" value="78" />
+    <task id="LOCAL-00078" summary="Class getter наследование">
+      <created>1712345281048</created>
+      <option name="number" value="00078" />
+      <option name="presentableId" value="LOCAL-00078" />
+      <option name="project" value="LOCAL" />
+      <updated>1712345281048</updated>
+    </task>
+    <option name="localTasksCounter" value="79" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -503,7 +504,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Weight for weight" />
     <MESSAGE value="Extract the domain name from a URL" />
     <MESSAGE value="String incrementer" />
     <MESSAGE value="String incrementerчфчфчф" />
@@ -528,6 +528,7 @@
     <MESSAGE value="Class1" />
     <MESSAGE value="Class constructors" />
     <MESSAGE value="Class getter setter" />
-    <option name="LAST_COMMIT_MESSAGE" value="Class getter setter" />
+    <MESSAGE value="Class getter наследование" />
+    <option name="LAST_COMMIT_MESSAGE" value="Class getter наследование" />
   </component>
 </project>

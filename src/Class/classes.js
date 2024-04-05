@@ -34,13 +34,19 @@ const u3 = new User('Mike', 'It Incubators')
 const u4 = new User('Julia', 'It Incubators')
 u4.names = 'Julia!'
 console.log(u3.name)
-let users = [u3,u4]
-users.forEach((u)=>u.hellow())
+
 //наследование
 class Coder extends User{
+    constructor(name, site,language) {
+        super(name, site);
+        this.language=language
+    }
     code(){
-        console.log(`Im a ${this.name} this is my code`)
+        console.log(`Im a ${this.name} this is my language ${this.language}`)
     }
 }
-const coder = new Coder('Mike','It incubators')
+const coder = new Coder('Koder','It incubators','js')
 coder.code()
+///полиморфизм
+let users = [u3,u4,coder]
+users.forEach((u)=>u.hellow())
