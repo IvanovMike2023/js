@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a6573293-8825-4a61-b33e-db15c0a43077" name="Changes" comment="Promise then catch async await Promise.all">
-      <change afterPath="$PROJECT_DIR$/src/kata_5_key/Gap_in_Primes.js" afterDir="false" />
+    <list default="true" id="a6573293-8825-4a61-b33e-db15c0a43077" name="Changes" comment="Primes">
+      <change afterPath="$PROJECT_DIR$/src/Class/classes.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,7 +53,7 @@
     <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2021.3.1\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager" selected="Node.js.Gap_in_Primes.js">
+  <component name="RunManager" selected="Node.js.classes.js">
     <configuration name="promise.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/js/src/promise.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
@@ -63,7 +63,7 @@
     <configuration name="Gap_in_Primes.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/kata_5_key/Gap_in_Primes.js" working-dir="$PROJECT_DIR$/src/kata_5_key">
       <method v="2" />
     </configuration>
-    <configuration name="Regex_Password_Validation.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/kata_5_key/Regex_Password_Validation.js" working-dir="$PROJECT_DIR$/src/kata_5_key">
+    <configuration name="classes.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/Class/classes.js" working-dir="$PROJECT_DIR$/src/Class">
       <method v="2" />
     </configuration>
     <configuration name="promise.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/promise.js" working-dir="$PROJECT_DIR$/src">
@@ -71,11 +71,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.classes.js" />
         <item itemvalue="Node.js.Gap_in_Primes.js" />
         <item itemvalue="Node.js.promise.js" />
         <item itemvalue="JavaScript Debug.promise.html" />
         <item itemvalue="Node.js.Calculating_with_Functions.js" />
-        <item itemvalue="Node.js.Regex_Password_Validation.js" />
       </list>
     </recent_temporary>
   </component>
@@ -129,14 +129,7 @@
       <workItem from="1704196364833" duration="44000" />
       <workItem from="1706694549021" duration="248000" />
       <workItem from="1706869550814" duration="23000" />
-      <workItem from="1712309514270" duration="15628000" />
-    </task>
-    <task id="LOCAL-00023" summary="Javascript_filter-1.js">
-      <created>1698050127248</created>
-      <option name="number" value="00023" />
-      <option name="presentableId" value="LOCAL-00023" />
-      <option name="project" value="LOCAL" />
-      <updated>1698050127248</updated>
+      <workItem from="1712309514270" duration="17524000" />
     </task>
     <task id="LOCAL-00024" summary="sortList">
       <created>1698138020997</created>
@@ -474,7 +467,14 @@
       <option name="project" value="LOCAL" />
       <updated>1706694792344</updated>
     </task>
-    <option name="localTasksCounter" value="72" />
+    <task id="LOCAL-00072" summary="Primes">
+      <created>1712327766415</created>
+      <option name="number" value="00072" />
+      <option name="presentableId" value="LOCAL-00072" />
+      <option name="project" value="LOCAL" />
+      <updated>1712327766415</updated>
+    </task>
+    <option name="localTasksCounter" value="73" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -504,7 +504,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="RGB To Hex Conversion" />
     <MESSAGE value="dirReduc" />
     <MESSAGE value="Directions Reduction" />
     <MESSAGE value="Calculating with Functions" />
@@ -529,7 +528,8 @@
     <MESSAGE value="promise2" />
     <MESSAGE value="Regex Password Validation" />
     <MESSAGE value="Promise then catch async await Promise.all" />
-    <option name="LAST_COMMIT_MESSAGE" value="Promise then catch async await Promise.all" />
+    <MESSAGE value="Primes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Primes" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
