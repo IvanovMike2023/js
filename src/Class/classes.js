@@ -30,8 +30,17 @@ class User {
     }
 }
 
-const u3 = new User('Julia', 'It Incubators')
-//console.log(u3)
-//u3.hellow()
-u3.names = 'Julia!'
+const u3 = new User('Mike', 'It Incubators')
+const u4 = new User('Julia', 'It Incubators')
+u4.names = 'Julia!'
 console.log(u3.name)
+let users = [u3,u4]
+users.forEach((u)=>u.hellow())
+//наследование
+class Coder extends User{
+    code(){
+        console.log(`Im a ${this.name} this is my code`)
+    }
+}
+const coder = new Coder('Mike','It incubators')
+coder.code()
