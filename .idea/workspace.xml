@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a6573293-8825-4a61-b33e-db15c0a43077" name="Changes" comment="Class getter наследование">
+    <list default="true" id="a6573293-8825-4a61-b33e-db15c0a43077" name="Changes" comment="Class getter наследование полиморфизм">
+      <change afterPath="$PROJECT_DIR$/src/Class/lesson12.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Class/classes.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Class/classes.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,29 +54,36 @@
     <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2021.3.1\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager" selected="Node.js.classes.js">
-    <configuration name="promise.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/js/src/promise.html" useBuiltInWebServerPort="true">
-      <method v="2" />
-    </configuration>
-    <configuration name="Calculating_with_Functions.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/kata_5_key/Calculating_with_Functions.js" working-dir="$PROJECT_DIR$/src/kata_5_key">
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Node.js.lesson12.js">
     <configuration name="Gap_in_Primes.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/kata_5_key/Gap_in_Primes.js" working-dir="$PROJECT_DIR$/src/kata_5_key">
       <method v="2" />
     </configuration>
     <configuration name="classes.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/Class/classes.js" working-dir="$PROJECT_DIR$/src/Class">
       <method v="2" />
     </configuration>
+    <configuration name="lesson12.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/Class/lesson12.js" working-dir="$PROJECT_DIR$/src/Class">
+      <method v="2" />
+    </configuration>
     <configuration name="promise.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/promise.js" working-dir="$PROJECT_DIR$/src">
+      <method v="2" />
+    </configuration>
+    <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.lesson12.js" />
+        <item itemvalue="npm.start" />
         <item itemvalue="Node.js.classes.js" />
         <item itemvalue="Node.js.Gap_in_Primes.js" />
         <item itemvalue="Node.js.promise.js" />
-        <item itemvalue="JavaScript Debug.promise.html" />
-        <item itemvalue="Node.js.Calculating_with_Functions.js" />
       </list>
     </recent_temporary>
   </component>
@@ -129,14 +137,8 @@
       <workItem from="1704196364833" duration="44000" />
       <workItem from="1706694549021" duration="248000" />
       <workItem from="1706869550814" duration="23000" />
-      <workItem from="1712309514270" duration="22770000" />
-    </task>
-    <task id="LOCAL-00030" summary="Number-like counter">
-      <created>1698244384898</created>
-      <option name="number" value="00030" />
-      <option name="presentableId" value="LOCAL-00030" />
-      <option name="project" value="LOCAL" />
-      <updated>1698244384898</updated>
+      <workItem from="1712309514270" duration="22792000" />
+      <workItem from="1712569013582" duration="4822000" />
     </task>
     <task id="LOCAL-00031" summary="The Power of Exponents">
       <created>1698246837471</created>
@@ -474,7 +476,14 @@
       <option name="project" value="LOCAL" />
       <updated>1712345281048</updated>
     </task>
-    <option name="localTasksCounter" value="79" />
+    <task id="LOCAL-00079" summary="Class getter наследование полиморфизм">
+      <created>1712347259965</created>
+      <option name="number" value="00079" />
+      <option name="presentableId" value="LOCAL-00079" />
+      <option name="project" value="LOCAL" />
+      <updated>1712347259965</updated>
+    </task>
+    <option name="localTasksCounter" value="80" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -504,7 +513,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Extract the domain name from a URL" />
     <MESSAGE value="String incrementer" />
     <MESSAGE value="String incrementerчфчфчф" />
     <MESSAGE value="-----------" />
@@ -529,6 +537,7 @@
     <MESSAGE value="Class constructors" />
     <MESSAGE value="Class getter setter" />
     <MESSAGE value="Class getter наследование" />
-    <option name="LAST_COMMIT_MESSAGE" value="Class getter наследование" />
+    <MESSAGE value="Class getter наследование полиморфизм" />
+    <option name="LAST_COMMIT_MESSAGE" value="Class getter наследование полиморфизм" />
   </component>
 </project>
