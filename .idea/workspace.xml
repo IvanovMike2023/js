@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a6573293-8825-4a61-b33e-db15c0a43077" name="Changes" comment="alphabetPosition">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Promise/promise2.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Promise/promise2.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/kata_5_key/Calculating_with_Functions.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/kata_5_key/Calculating_with_Functions.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,19 +39,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="node.js.detected.package.eslint" value="true" />
-    <property name="node.js.detected.package.tslint" value="true" />
-    <property name="node.js.selected.package.eslint" value="(autodetect)" />
-    <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="nodejs_package_manager_path" value="yarn" />
-    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2021.3.1\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
-    <property name="vue.rearranger.settings.migration" value="true" />
-  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/js/js",
+    "nodejs_package_manager_path": "yarn",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
   <component name="RunManager" selected="Node.js.promise2.js">
     <configuration name="Replace_With_Alphabet_Position.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/kata_6_key/Replace_With_Alphabet_Position.js" working-dir="$PROJECT_DIR$/src/kata_6_key">
       <method v="2" />
@@ -141,6 +137,7 @@
       <workItem from="1716811164030" duration="6114000" />
       <workItem from="1716819277080" duration="13000" />
       <workItem from="1717585627862" duration="3617000" />
+      <workItem from="1723496648616" duration="18000" />
     </task>
     <task id="LOCAL-00033" summary="Singleton Pattern">
       <created>1698328319036</created>
