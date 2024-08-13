@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a6573293-8825-4a61-b33e-db15c0a43077" name="Changes" comment="alphabetPosition">
+    <list default="true" id="a6573293-8825-4a61-b33e-db15c0a43077" name="Changes" comment="alphabetPositioncscsccsa">
+      <change afterPath="$PROJECT_DIR$/src/kata_6_key/Good_vs_Evil.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/kata_5_key/Calculating_with_Functions.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/kata_5_key/Calculating_with_Functions.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,15 +47,21 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "last_opened_file_path": "C:/js/js",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "yarn",
+    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.VCS",
+    "ts.external.directory.path": "C:\\Program Files\\JetBrains\\WebStorm 2022.2.3\\plugins\\JavaScriptLanguage\\jsLanguageServicesImpl\\external",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Node.js.promise2.js">
-    <configuration name="Replace_With_Alphabet_Position.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/kata_6_key/Replace_With_Alphabet_Position.js" working-dir="$PROJECT_DIR$/src/kata_6_key">
+  <component name="RunManager" selected="Node.js.Good_vs_Evil.js">
+    <configuration name="Good_vs_Evil.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/kata_6_key/Good_vs_Evil.js" working-dir="$PROJECT_DIR$/src/kata_6_key">
       <method v="2" />
     </configuration>
-    <configuration name="classes.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/Class/classes.js" working-dir="$PROJECT_DIR$/src/Class">
+    <configuration name="Replace_With_Alphabet_Position.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/kata_6_key/Replace_With_Alphabet_Position.js" working-dir="$PROJECT_DIR$/src/kata_6_key">
       <method v="2" />
     </configuration>
     <configuration name="lesson12.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/Class/lesson12.js" working-dir="$PROJECT_DIR$/src/Class">
@@ -74,11 +82,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.Good_vs_Evil.js" />
         <item itemvalue="Node.js.promise2.js" />
         <item itemvalue="Node.js.Replace_With_Alphabet_Position.js" />
         <item itemvalue="Node.js.lesson12.js" />
         <item itemvalue="npm.start" />
-        <item itemvalue="Node.js.classes.js" />
       </list>
     </recent_temporary>
   </component>
@@ -137,14 +145,8 @@
       <workItem from="1716811164030" duration="6114000" />
       <workItem from="1716819277080" duration="13000" />
       <workItem from="1717585627862" duration="3617000" />
-      <workItem from="1723496648616" duration="18000" />
-    </task>
-    <task id="LOCAL-00033" summary="Singleton Pattern">
-      <created>1698328319036</created>
-      <option name="number" value="00033" />
-      <option name="presentableId" value="LOCAL-00033" />
-      <option name="project" value="LOCAL" />
-      <updated>1698328319036</updated>
+      <workItem from="1723496648616" duration="195000" />
+      <workItem from="1723531550272" duration="4870000" />
     </task>
     <task id="LOCAL-00034" summary="isLeapYear">
       <created>1698677112112</created>
@@ -482,7 +484,14 @@
       <option name="project" value="LOCAL" />
       <updated>1716817310741</updated>
     </task>
-    <option name="localTasksCounter" value="82" />
+    <task id="LOCAL-00082" summary="alphabetPositioncscsccsa">
+      <created>1723496729191</created>
+      <option name="number" value="00082" />
+      <option name="presentableId" value="LOCAL-00082" />
+      <option name="project" value="LOCAL" />
+      <updated>1723496729191</updated>
+    </task>
+    <option name="localTasksCounter" value="83" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -512,8 +521,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="-----------" />
-    <MESSAGE value="+-" />
     <MESSAGE value="+++++" />
     <MESSAGE value="prime factors" />
     <MESSAGE value="prime factors +" />
@@ -537,6 +544,8 @@
     <MESSAGE value="Class getter наследование полиморфизм" />
     <MESSAGE value="Class getter наследование полиморфизм lesson15" />
     <MESSAGE value="alphabetPosition" />
-    <option name="LAST_COMMIT_MESSAGE" value="alphabetPosition" />
+    <MESSAGE value="alphabetPositioncscsc" />
+    <MESSAGE value="alphabetPositioncscsccsa" />
+    <option name="LAST_COMMIT_MESSAGE" value="alphabetPositioncscsccsa" />
   </component>
 </project>
