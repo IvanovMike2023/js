@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a6573293-8825-4a61-b33e-db15c0a43077" name="Changes" comment="alphabetPositioncscsccsa">
-      <change afterPath="$PROJECT_DIR$/src/kata_6_key/Good_vs_Evil.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/kata_6_key/The_Supermarket_Queue.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/kata_5_key/Calculating_with_Functions.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/kata_5_key/Calculating_with_Functions.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,11 +56,14 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Node.js.Good_vs_Evil.js">
+  <component name="RunManager" selected="Node.js.The_Supermarket_Queue.js">
     <configuration name="Good_vs_Evil.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/kata_6_key/Good_vs_Evil.js" working-dir="$PROJECT_DIR$/src/kata_6_key">
       <method v="2" />
     </configuration>
     <configuration name="Replace_With_Alphabet_Position.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/kata_6_key/Replace_With_Alphabet_Position.js" working-dir="$PROJECT_DIR$/src/kata_6_key">
+      <method v="2" />
+    </configuration>
+    <configuration name="The_Supermarket_Queue.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/kata_6_key/The_Supermarket_Queue.js" working-dir="$PROJECT_DIR$/src/kata_6_key">
       <method v="2" />
     </configuration>
     <configuration name="lesson12.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/Class/lesson12.js" working-dir="$PROJECT_DIR$/src/Class">
@@ -70,23 +72,13 @@
     <configuration name="promise2.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/Promise/promise2.js" working-dir="$PROJECT_DIR$/src/Promise">
       <method v="2" />
     </configuration>
-    <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
-      <package-json value="$PROJECT_DIR$/package.json" />
-      <command value="run" />
-      <scripts>
-        <script value="start" />
-      </scripts>
-      <node-interpreter value="project" />
-      <envs />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.The_Supermarket_Queue.js" />
         <item itemvalue="Node.js.Good_vs_Evil.js" />
         <item itemvalue="Node.js.promise2.js" />
         <item itemvalue="Node.js.Replace_With_Alphabet_Position.js" />
         <item itemvalue="Node.js.lesson12.js" />
-        <item itemvalue="npm.start" />
       </list>
     </recent_temporary>
   </component>
@@ -147,6 +139,8 @@
       <workItem from="1717585627862" duration="3617000" />
       <workItem from="1723496648616" duration="195000" />
       <workItem from="1723531550272" duration="4870000" />
+      <workItem from="1723619745778" duration="16000" />
+      <workItem from="1725695820599" duration="3723000" />
     </task>
     <task id="LOCAL-00034" summary="isLeapYear">
       <created>1698677112112</created>
