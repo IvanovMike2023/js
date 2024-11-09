@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a6573293-8825-4a61-b33e-db15c0a43077" name="Changes" comment="-------------">
-      <change afterPath="$PROJECT_DIR$/src/kata_6_key/Two_Sum.js" afterDir="false" />
+    <list default="true" id="a6573293-8825-4a61-b33e-db15c0a43077" name="Changes" comment="-------------csacsa">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/kata_6_key/Two_Sum.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/kata_6_key/Two_Sum.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -142,14 +142,7 @@
       <workItem from="1723619745778" duration="16000" />
       <workItem from="1725695820599" duration="3737000" />
       <workItem from="1725830818662" duration="25000" />
-      <workItem from="1731180316136" duration="1654000" />
-    </task>
-    <task id="LOCAL-00035" summary="Multiples of 3 or 5">
-      <created>1698690271018</created>
-      <option name="number" value="00035" />
-      <option name="presentableId" value="LOCAL-00035" />
-      <option name="project" value="LOCAL" />
-      <updated>1698690271018</updated>
+      <workItem from="1731180316136" duration="4298000" />
     </task>
     <task id="LOCAL-00036" summary="Find the odd int">
       <created>1698763078206</created>
@@ -487,7 +480,14 @@
       <option name="project" value="LOCAL" />
       <updated>1725700489778</updated>
     </task>
-    <option name="localTasksCounter" value="84" />
+    <task id="LOCAL-00084" summary="-------------csacsa">
+      <created>1731181991098</created>
+      <option name="number" value="00084" />
+      <option name="presentableId" value="LOCAL-00084" />
+      <option name="project" value="LOCAL" />
+      <updated>1731181991098</updated>
+    </task>
+    <option name="localTasksCounter" value="85" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -517,7 +517,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="prime factors" />
     <MESSAGE value="prime factors +" />
     <MESSAGE value="Integers: Recreation One" />
     <MESSAGE value="Number of trailing zeros of N!" />
@@ -542,6 +541,7 @@
     <MESSAGE value="alphabetPositioncscsc" />
     <MESSAGE value="alphabetPositioncscsccsa" />
     <MESSAGE value="-------------" />
-    <option name="LAST_COMMIT_MESSAGE" value="-------------" />
+    <MESSAGE value="-------------csacsa" />
+    <option name="LAST_COMMIT_MESSAGE" value="-------------csacsa" />
   </component>
 </project>
