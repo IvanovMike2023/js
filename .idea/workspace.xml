@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a6573293-8825-4a61-b33e-db15c0a43077" name="Changes" comment="ssss">
-      <change afterPath="$PROJECT_DIR$/src/js1/reduce.js" afterDir="false" />
+    <list default="true" id="a6573293-8825-4a61-b33e-db15c0a43077" name="Changes" comment="reduce">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/kata_6_key/Two_Sum.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/kata_6_key/Two_Sum.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/js1/reduce.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js1/reduce.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -146,14 +145,9 @@
       <workItem from="1731180316136" duration="4446000" />
       <workItem from="1731217365808" duration="26000" />
       <workItem from="1731248835009" duration="1527000" />
-      <workItem from="1731679675204" duration="3063000" />
-    </task>
-    <task id="LOCAL-00037" summary="6 kyu&#10;Who likes it?">
-      <created>1698767164481</created>
-      <option name="number" value="00037" />
-      <option name="presentableId" value="LOCAL-00037" />
-      <option name="project" value="LOCAL" />
-      <updated>1698767164481</updated>
+      <workItem from="1731679675204" duration="3771000" />
+      <workItem from="1732023551276" duration="73000" />
+      <workItem from="1732281191191" duration="1478000" />
     </task>
     <task id="LOCAL-00038" summary="6 kyu&#10;Who likes it?!">
       <created>1698827581241</created>
@@ -491,7 +485,14 @@
       <option name="project" value="LOCAL" />
       <updated>1731184780334</updated>
     </task>
-    <option name="localTasksCounter" value="86" />
+    <task id="LOCAL-00086" summary="reduce">
+      <created>1731682876133</created>
+      <option name="number" value="00086" />
+      <option name="presentableId" value="LOCAL-00086" />
+      <option name="project" value="LOCAL" />
+      <updated>1731682876133</updated>
+    </task>
+    <option name="localTasksCounter" value="87" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -521,7 +522,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Integers: Recreation One" />
     <MESSAGE value="Number of trailing zeros of N!" />
     <MESSAGE value="First non-repeating character" />
     <MESSAGE value="countBits" />
@@ -546,6 +546,7 @@
     <MESSAGE value="-------------" />
     <MESSAGE value="-------------csacsa" />
     <MESSAGE value="ssss" />
-    <option name="LAST_COMMIT_MESSAGE" value="ssss" />
+    <MESSAGE value="reduce" />
+    <option name="LAST_COMMIT_MESSAGE" value="reduce" />
   </component>
 </project>

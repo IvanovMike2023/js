@@ -27,7 +27,7 @@ acc.basePrise=acc.sums.sumOfTablet>acc.sums.sumOfPhone && acc.sums.sumOfTablet>a
     //console.log(acc.sums.sumOfTablet)
  return acc
 }   ,{sums:{sumOfTablet:0,sumOfPhone:0,sumOfLaptop:0},basePrise:0})
-console.log(result)
+//console.log(result)
 const monthlySales = sales.reduce((accumulator, current) => {
     const date = new Date(current.date);
     const monthYear = date.toISOString().slice(0, 7); // Получаем "YYYY-MM"
@@ -53,5 +53,22 @@ for (const [month, revenue] of Object.entries(monthlySales)) {
         maxRevenueMonth = month;
     }
 }
+function curry(f) { // curry(f) выполняет каррирование
+    console.log(f)
+    return function(a) {
+        console.log(a)
+        return function(b) {
+            console.log(b)
+            return f(a, b);
+        };
+    };
+}
 
-console.log(`Месяц с наибольшими продажами: ${maxRevenueMonth} с выручкой ${maxRevenue}`);
+// использование
+const s=()=>{}
+function s2(){
+
+}
+console.log(typeof s)
+console.log(typeof s2)
+
