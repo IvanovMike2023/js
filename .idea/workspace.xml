@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a6573293-8825-4a61-b33e-db15c0a43077" name="Changes" comment="reducecascasc">
-      <change afterPath="$PROJECT_DIR$/src/js1/Pattern.js" afterDir="false" />
+    <list default="true" id="a6573293-8825-4a61-b33e-db15c0a43077" name="Changes" comment="Pattern">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/js1/reduce.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js1/reduce.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/js1/Pattern.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js1/Pattern.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -150,14 +149,8 @@
       <workItem from="1732023551276" duration="73000" />
       <workItem from="1732281191191" duration="1686000" />
       <workItem from="1733316224835" duration="1768000" />
-      <workItem from="1733719601578" duration="873000" />
-    </task>
-    <task id="LOCAL-00039" summary=" digitalRoot">
-      <created>1698910012544</created>
-      <option name="number" value="00039" />
-      <option name="presentableId" value="LOCAL-00039" />
-      <option name="project" value="LOCAL" />
-      <updated>1698910012544</updated>
+      <workItem from="1733719601578" duration="1969000" />
+      <workItem from="1733747982322" duration="4449000" />
     </task>
     <task id="LOCAL-00040" summary="&#10;Array.diff">
       <created>1698911670735</created>
@@ -495,7 +488,14 @@
       <option name="project" value="LOCAL" />
       <updated>1732282771630</updated>
     </task>
-    <option name="localTasksCounter" value="88" />
+    <task id="LOCAL-00088" summary="Pattern">
+      <created>1733720515694</created>
+      <option name="number" value="00088" />
+      <option name="presentableId" value="LOCAL-00088" />
+      <option name="project" value="LOCAL" />
+      <updated>1733720515694</updated>
+    </task>
+    <option name="localTasksCounter" value="89" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -525,7 +525,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="First non-repeating character" />
     <MESSAGE value="countBits" />
     <MESSAGE value="Find The Parity Outlier" />
     <MESSAGE value="promise" />
@@ -550,6 +549,7 @@
     <MESSAGE value="ssss" />
     <MESSAGE value="reduce" />
     <MESSAGE value="reducecascasc" />
-    <option name="LAST_COMMIT_MESSAGE" value="reducecascasc" />
+    <MESSAGE value="Pattern" />
+    <option name="LAST_COMMIT_MESSAGE" value="Pattern" />
   </component>
 </project>
