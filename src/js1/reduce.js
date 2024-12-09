@@ -67,8 +67,11 @@ function curry(f) { // curry(f) выполняет каррирование
 // использование
 const s=()=>{}
 function s2(){
-
 }
-console.log(typeof s)
-console.log(typeof s2)
+const r=[1,2,3,4,5]
+let h=0
+r.forEach((value, index, array)=>{
+    h+=value
+})
+console.log(h)
 

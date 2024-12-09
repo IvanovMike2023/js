@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a6573293-8825-4a61-b33e-db15c0a43077" name="Changes" comment="reduce">
+    <list default="true" id="a6573293-8825-4a61-b33e-db15c0a43077" name="Changes" comment="reducecascasc">
+      <change afterPath="$PROJECT_DIR$/src/js1/Pattern.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/js1/reduce.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js1/reduce.js" afterDir="false" />
     </list>
@@ -40,24 +41,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/js/js",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "yarn",
-    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.VCS",
-    "ts.external.directory.path": "C:\\Program Files\\JetBrains\\WebStorm 2022.2.3\\plugins\\JavaScriptLanguage\\jsLanguageServicesImpl\\external",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/js/js&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;yarn&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.IDE.editor.colors.VCS&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;C:\\Program Files\\JetBrains\\WebStorm 2022.2.3\\plugins\\JavaScriptLanguage\\jsLanguageServicesImpl\\external&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Node.js.reduce.js">
+}</component>
+  <component name="RunManager" selected="Node.js.Pattern.js">
     <configuration name="Good_vs_Evil.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/kata_6_key/Good_vs_Evil.js" working-dir="$PROJECT_DIR$/src/kata_6_key">
+      <method v="2" />
+    </configuration>
+    <configuration name="Pattern.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/js1/Pattern.js" working-dir="$PROJECT_DIR$/src/js1">
       <method v="2" />
     </configuration>
     <configuration name="The_Supermarket_Queue.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/kata_6_key/The_Supermarket_Queue.js" working-dir="$PROJECT_DIR$/src/kata_6_key">
@@ -66,19 +70,16 @@
     <configuration name="Two_Sum.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/kata_6_key/Two_Sum.js" working-dir="$PROJECT_DIR$/src/kata_6_key">
       <method v="2" />
     </configuration>
-    <configuration name="promise2.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/Promise/promise2.js" working-dir="$PROJECT_DIR$/src/Promise">
-      <method v="2" />
-    </configuration>
     <configuration name="reduce.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/js1/reduce.js" working-dir="$PROJECT_DIR$/src/js1">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.Pattern.js" />
         <item itemvalue="Node.js.reduce.js" />
         <item itemvalue="Node.js.Two_Sum.js" />
         <item itemvalue="Node.js.The_Supermarket_Queue.js" />
         <item itemvalue="Node.js.Good_vs_Evil.js" />
-        <item itemvalue="Node.js.promise2.js" />
       </list>
     </recent_temporary>
   </component>
@@ -147,14 +148,9 @@
       <workItem from="1731248835009" duration="1527000" />
       <workItem from="1731679675204" duration="3771000" />
       <workItem from="1732023551276" duration="73000" />
-      <workItem from="1732281191191" duration="1478000" />
-    </task>
-    <task id="LOCAL-00038" summary="6 kyu&#10;Who likes it?!">
-      <created>1698827581241</created>
-      <option name="number" value="00038" />
-      <option name="presentableId" value="LOCAL-00038" />
-      <option name="project" value="LOCAL" />
-      <updated>1698827581241</updated>
+      <workItem from="1732281191191" duration="1686000" />
+      <workItem from="1733316224835" duration="1768000" />
+      <workItem from="1733719601578" duration="873000" />
     </task>
     <task id="LOCAL-00039" summary=" digitalRoot">
       <created>1698910012544</created>
@@ -492,7 +488,14 @@
       <option name="project" value="LOCAL" />
       <updated>1731682876133</updated>
     </task>
-    <option name="localTasksCounter" value="87" />
+    <task id="LOCAL-00087" summary="reducecascasc">
+      <created>1732282771630</created>
+      <option name="number" value="00087" />
+      <option name="presentableId" value="LOCAL-00087" />
+      <option name="project" value="LOCAL" />
+      <updated>1732282771630</updated>
+    </task>
+    <option name="localTasksCounter" value="88" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -522,7 +525,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Number of trailing zeros of N!" />
     <MESSAGE value="First non-repeating character" />
     <MESSAGE value="countBits" />
     <MESSAGE value="Find The Parity Outlier" />
@@ -547,6 +549,7 @@
     <MESSAGE value="-------------csacsa" />
     <MESSAGE value="ssss" />
     <MESSAGE value="reduce" />
-    <option name="LAST_COMMIT_MESSAGE" value="reduce" />
+    <MESSAGE value="reducecascasc" />
+    <option name="LAST_COMMIT_MESSAGE" value="reducecascasc" />
   </component>
 </project>
