@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a6573293-8825-4a61-b33e-db15c0a43077" name="Changes" comment="Pattern">
+      <change afterPath="$PROJECT_DIR$/src/kata_6_key/Delete_occurrences_of_an_element.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/js1/Pattern.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js1/Pattern.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,8 +56,8 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Node.js.Pattern.js">
-    <configuration name="Good_vs_Evil.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/kata_6_key/Good_vs_Evil.js" working-dir="$PROJECT_DIR$/src/kata_6_key">
+  <component name="RunManager" selected="Node.js.Delete_occurrences_of_an_element.js">
+    <configuration name="Delete_occurrences_of_an_element.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/kata_6_key/Delete_occurrences_of_an_element.js" working-dir="$PROJECT_DIR$/src/kata_6_key">
       <method v="2" />
     </configuration>
     <configuration name="Pattern.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/js1/Pattern.js" working-dir="$PROJECT_DIR$/src/js1">
@@ -74,11 +74,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.Delete_occurrences_of_an_element.js" />
         <item itemvalue="Node.js.Pattern.js" />
         <item itemvalue="Node.js.reduce.js" />
         <item itemvalue="Node.js.Two_Sum.js" />
         <item itemvalue="Node.js.The_Supermarket_Queue.js" />
-        <item itemvalue="Node.js.Good_vs_Evil.js" />
       </list>
     </recent_temporary>
   </component>
@@ -150,14 +150,7 @@
       <workItem from="1732281191191" duration="1686000" />
       <workItem from="1733316224835" duration="1768000" />
       <workItem from="1733719601578" duration="1969000" />
-      <workItem from="1733747982322" duration="4449000" />
-    </task>
-    <task id="LOCAL-00040" summary="&#10;Array.diff">
-      <created>1698911670735</created>
-      <option name="number" value="00040" />
-      <option name="presentableId" value="LOCAL-00040" />
-      <option name="project" value="LOCAL" />
-      <updated>1698911670735</updated>
+      <workItem from="1733747982322" duration="16476000" />
     </task>
     <task id="LOCAL-00041" summary="Simple Pig Latin">
       <created>1698943218481</created>
@@ -495,7 +488,14 @@
       <option name="project" value="LOCAL" />
       <updated>1733720515694</updated>
     </task>
-    <option name="localTasksCounter" value="89" />
+    <task id="LOCAL-00089" summary="Pattern">
+      <created>1733753178153</created>
+      <option name="number" value="00089" />
+      <option name="presentableId" value="LOCAL-00089" />
+      <option name="project" value="LOCAL" />
+      <updated>1733753178153</updated>
+    </task>
+    <option name="localTasksCounter" value="90" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
