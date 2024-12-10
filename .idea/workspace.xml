@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a6573293-8825-4a61-b33e-db15c0a43077" name="Changes" comment="Pattern">
-      <change afterPath="$PROJECT_DIR$/src/kata_6_key/Delete_occurrences_of_an_element.js" afterDir="false" />
+    <list default="true" id="a6573293-8825-4a61-b33e-db15c0a43077" name="Changes" comment="Patterncdc">
+      <change afterPath="$PROJECT_DIR$/src/kata_6_key/duplicateCount.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -56,17 +56,17 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Node.js.Delete_occurrences_of_an_element.js">
+  <component name="RunManager" selected="Node.js.duplicateCount.js">
     <configuration name="Delete_occurrences_of_an_element.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/kata_6_key/Delete_occurrences_of_an_element.js" working-dir="$PROJECT_DIR$/src/kata_6_key">
       <method v="2" />
     </configuration>
     <configuration name="Pattern.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/js1/Pattern.js" working-dir="$PROJECT_DIR$/src/js1">
       <method v="2" />
     </configuration>
-    <configuration name="The_Supermarket_Queue.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/kata_6_key/The_Supermarket_Queue.js" working-dir="$PROJECT_DIR$/src/kata_6_key">
+    <configuration name="Two_Sum.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/kata_6_key/Two_Sum.js" working-dir="$PROJECT_DIR$/src/kata_6_key">
       <method v="2" />
     </configuration>
-    <configuration name="Two_Sum.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/kata_6_key/Two_Sum.js" working-dir="$PROJECT_DIR$/src/kata_6_key">
+    <configuration name="duplicateCount.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/kata_6_key/duplicateCount.js" working-dir="$PROJECT_DIR$/src/kata_6_key">
       <method v="2" />
     </configuration>
     <configuration name="reduce.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/js1/reduce.js" working-dir="$PROJECT_DIR$/src/js1">
@@ -74,11 +74,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.duplicateCount.js" />
         <item itemvalue="Node.js.Delete_occurrences_of_an_element.js" />
         <item itemvalue="Node.js.Pattern.js" />
         <item itemvalue="Node.js.reduce.js" />
         <item itemvalue="Node.js.Two_Sum.js" />
-        <item itemvalue="Node.js.The_Supermarket_Queue.js" />
       </list>
     </recent_temporary>
   </component>
@@ -150,14 +150,8 @@
       <workItem from="1732281191191" duration="1686000" />
       <workItem from="1733316224835" duration="1768000" />
       <workItem from="1733719601578" duration="1969000" />
-      <workItem from="1733747982322" duration="16476000" />
-    </task>
-    <task id="LOCAL-00041" summary="Simple Pig Latin">
-      <created>1698943218481</created>
-      <option name="number" value="00041" />
-      <option name="presentableId" value="LOCAL-00041" />
-      <option name="project" value="LOCAL" />
-      <updated>1698943218481</updated>
+      <workItem from="1733747982322" duration="17231000" />
+      <workItem from="1733840715331" duration="3584000" />
     </task>
     <task id="LOCAL-00042" summary="Human Readable Time">
       <created>1699356374358</created>
@@ -495,7 +489,14 @@
       <option name="project" value="LOCAL" />
       <updated>1733753178153</updated>
     </task>
-    <option name="localTasksCounter" value="90" />
+    <task id="LOCAL-00090" summary="Patterncdc">
+      <created>1733765874865</created>
+      <option name="number" value="00090" />
+      <option name="presentableId" value="LOCAL-00090" />
+      <option name="project" value="LOCAL" />
+      <updated>1733765874865</updated>
+    </task>
+    <option name="localTasksCounter" value="91" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -525,7 +526,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="countBits" />
     <MESSAGE value="Find The Parity Outlier" />
     <MESSAGE value="promise" />
     <MESSAGE value="Fibonachi_Perimeter_of_squares_in_a_rectangle.js" />
@@ -550,6 +550,7 @@
     <MESSAGE value="reduce" />
     <MESSAGE value="reducecascasc" />
     <MESSAGE value="Pattern" />
-    <option name="LAST_COMMIT_MESSAGE" value="Pattern" />
+    <MESSAGE value="Patterncdc" />
+    <option name="LAST_COMMIT_MESSAGE" value="Patterncdc" />
   </component>
 </project>
