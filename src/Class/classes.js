@@ -50,3 +50,48 @@ coder.code()
 ///полиморфизм
 let users = [u3,u4,coder]
 users.forEach((u)=>u.hellow())
+
+
+
+
+
+class Car {
+    constructor(brand, color,speed) {
+        this.brand = brand
+        this.color = color
+        this.speed = speed
+    }
+    ctartEngine(){
+        console.log(this.brand+'startded')
+    }
+    static compareCar(obj1,obj2) {
+        if(obj1.speed>obj2.speed){
+            return    2
+        }else {
+            return 1
+        }
+    }
+}
+class SuperCar extends Car{
+    constructor(brand, color,speed,canFly) {
+        super(brand, color,speed);
+        this.canFly=canFly
+    }
+    fly(){
+        console.log(`${this.brand} is flying`)
+    }
+}
+const car1 = new Car('audi', 'red',1000)
+const car2 = new Car('kia', 'red',2000)
+car1.ctartEngine()
+const superBmw=new SuperCar('audi', 'red',1000,true)
+superBmw.fly()
+console.log(superBmw.canFly)
+//car1.startEngine()
+//console.log(car1)
+//console.log(car2)
+//console.log(car1.speed)
+//console.log(Car.compareCar(car1,car2))
+//car1.Speed=100
+//console.log(car1.Speed)
+//console.log(car1.color)

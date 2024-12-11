@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a6573293-8825-4a61-b33e-db15c0a43077" name="Changes" comment="duplicateCount">
-      <change afterPath="$PROJECT_DIR$/src/kata_6_key/toCamelCase.js" afterDir="false" />
+    <list default="true" id="a6573293-8825-4a61-b33e-db15c0a43077" name="Changes" comment="toCamelCase">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Class/classes.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Class/classes.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/kata_6_key/toCamelCase.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/kata_6_key/toCamelCase.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -152,14 +153,7 @@
       <workItem from="1733719601578" duration="1969000" />
       <workItem from="1733747982322" duration="17231000" />
       <workItem from="1733840715331" duration="11157000" />
-      <workItem from="1733897561758" duration="1625000" />
-    </task>
-    <task id="LOCAL-00044" summary="dirReduc">
-      <created>1699372227501</created>
-      <option name="number" value="00044" />
-      <option name="presentableId" value="LOCAL-00044" />
-      <option name="project" value="LOCAL" />
-      <updated>1699372227501</updated>
+      <workItem from="1733897561758" duration="7179000" />
     </task>
     <task id="LOCAL-00045" summary="Directions Reduction">
       <created>1699555336247</created>
@@ -497,7 +491,14 @@
       <option name="project" value="LOCAL" />
       <updated>1733864693142</updated>
     </task>
-    <option name="localTasksCounter" value="93" />
+    <task id="LOCAL-00093" summary="toCamelCase">
+      <created>1733899262054</created>
+      <option name="number" value="00093" />
+      <option name="presentableId" value="LOCAL-00093" />
+      <option name="project" value="LOCAL" />
+      <updated>1733899262054</updated>
+    </task>
+    <option name="localTasksCounter" value="94" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -527,7 +528,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="promise" />
     <MESSAGE value="Fibonachi_Perimeter_of_squares_in_a_rectangle.js" />
     <MESSAGE value="class" />
     <MESSAGE value="promise2" />
@@ -552,6 +552,7 @@
     <MESSAGE value="Pattern" />
     <MESSAGE value="Patterncdc" />
     <MESSAGE value="duplicateCount" />
-    <option name="LAST_COMMIT_MESSAGE" value="duplicateCount" />
+    <MESSAGE value="toCamelCase" />
+    <option name="LAST_COMMIT_MESSAGE" value="toCamelCase" />
   </component>
 </project>
