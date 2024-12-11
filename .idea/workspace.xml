@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a6573293-8825-4a61-b33e-db15c0a43077" name="Changes" comment="duplicateCount">
+      <change afterPath="$PROJECT_DIR$/src/kata_6_key/toCamelCase.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/kata_6_key/duplicateCount.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/kata_6_key/duplicateCount.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,30 +40,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/js/js",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "yarn",
-    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.VCS",
-    "ts.external.directory.path": "C:\\js\\js\\node_modules\\typescript\\lib",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/js/js&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;yarn&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.IDE.editor.colors.VCS&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;C:\\js\\js\\node_modules\\typescript\\lib&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Node.js.duplicateCount.js">
+}</component>
+  <component name="RunManager" selected="Node.js.toCamelCase.js">
     <configuration name="Delete_occurrences_of_an_element.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/kata_6_key/Delete_occurrences_of_an_element.js" working-dir="$PROJECT_DIR$/src/kata_6_key">
       <method v="2" />
     </configuration>
     <configuration name="Pattern.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/js1/Pattern.js" working-dir="$PROJECT_DIR$/src/js1">
-      <method v="2" />
-    </configuration>
-    <configuration name="Two_Sum.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/kata_6_key/Two_Sum.js" working-dir="$PROJECT_DIR$/src/kata_6_key">
       <method v="2" />
     </configuration>
     <configuration name="duplicateCount.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/kata_6_key/duplicateCount.js" working-dir="$PROJECT_DIR$/src/kata_6_key">
@@ -73,13 +69,16 @@
     <configuration name="reduce.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/js1/reduce.js" working-dir="$PROJECT_DIR$/src/js1">
       <method v="2" />
     </configuration>
+    <configuration name="toCamelCase.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/kata_6_key/toCamelCase.js" working-dir="$PROJECT_DIR$/src/kata_6_key">
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.toCamelCase.js" />
         <item itemvalue="Node.js.duplicateCount.js" />
         <item itemvalue="Node.js.Delete_occurrences_of_an_element.js" />
         <item itemvalue="Node.js.Pattern.js" />
         <item itemvalue="Node.js.reduce.js" />
-        <item itemvalue="Node.js.Two_Sum.js" />
       </list>
     </recent_temporary>
   </component>
@@ -152,14 +151,8 @@
       <workItem from="1733316224835" duration="1768000" />
       <workItem from="1733719601578" duration="1969000" />
       <workItem from="1733747982322" duration="17231000" />
-      <workItem from="1733840715331" duration="11145000" />
-    </task>
-    <task id="LOCAL-00043" summary="RGB To Hex Conversion">
-      <created>1699358331344</created>
-      <option name="number" value="00043" />
-      <option name="presentableId" value="LOCAL-00043" />
-      <option name="project" value="LOCAL" />
-      <updated>1699358331344</updated>
+      <workItem from="1733840715331" duration="11157000" />
+      <workItem from="1733897561758" duration="1625000" />
     </task>
     <task id="LOCAL-00044" summary="dirReduc">
       <created>1699372227501</created>
@@ -497,7 +490,14 @@
       <option name="project" value="LOCAL" />
       <updated>1733844484712</updated>
     </task>
-    <option name="localTasksCounter" value="92" />
+    <task id="LOCAL-00092" summary="duplicateCount">
+      <created>1733864693142</created>
+      <option name="number" value="00092" />
+      <option name="presentableId" value="LOCAL-00092" />
+      <option name="project" value="LOCAL" />
+      <updated>1733864693142</updated>
+    </task>
+    <option name="localTasksCounter" value="93" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
