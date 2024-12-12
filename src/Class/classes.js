@@ -66,9 +66,9 @@ class Car {
     }
     static compareCar(obj1,obj2) {
         if(obj1.speed>obj2.speed){
-            return    2
+            console.log(obj1.brand+'быстрее'+obj2.brand)
         }else {
-            return 1
+            console.log(obj2.brand+'быстрее'+obj1.brand)
         }
     }
 }
@@ -84,14 +84,14 @@ class SuperCar extends Car{
 const car1 = new Car('audi', 'red',1000)
 const car2 = new Car('kia', 'red',2000)
 car1.ctartEngine()
-const superBmw=new SuperCar('audi', 'red',1000,true)
+const superBmw=new SuperCar('bmw', 'red',1000,true)
 superBmw.fly()
 console.log(superBmw.canFly)
+
+SuperCar.compareCar(car1,superBmw)
 //car1.startEngine()
 //console.log(car1)
 //console.log(car2)
 //console.log(car1.speed)
 //console.log(Car.compareCar(car1,car2))
 //car1.Speed=100
-//console.log(car1.Speed)
-//console.log(car1.color)
