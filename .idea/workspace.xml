@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a6573293-8825-4a61-b33e-db15c0a43077" name="Changes" comment="Class">
+    <list default="true" id="a6573293-8825-4a61-b33e-db15c0a43077" name="Changes" comment="Class!">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Class/classes.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Class/classes.js" afterDir="false" />
     </list>
@@ -153,14 +153,8 @@
       <workItem from="1733747982322" duration="17231000" />
       <workItem from="1733840715331" duration="11157000" />
       <workItem from="1733897561758" duration="8106000" />
-      <workItem from="1734016616356" duration="8000" />
-    </task>
-    <task id="LOCAL-00046" summary="Calculating with Functions">
-      <created>1699557651177</created>
-      <option name="number" value="00046" />
-      <option name="presentableId" value="LOCAL-00046" />
-      <option name="project" value="LOCAL" />
-      <updated>1699557651177</updated>
+      <workItem from="1734016616356" duration="612000" />
+      <workItem from="1734961562644" duration="386000" />
     </task>
     <task id="LOCAL-00047" summary="Calculating with Functions">
       <created>1699888432179</created>
@@ -498,7 +492,14 @@
       <option name="project" value="LOCAL" />
       <updated>1733910178172</updated>
     </task>
-    <option name="localTasksCounter" value="95" />
+    <task id="LOCAL-00095" summary="Class!">
+      <created>1734016630792</created>
+      <option name="number" value="00095" />
+      <option name="presentableId" value="LOCAL-00095" />
+      <option name="project" value="LOCAL" />
+      <updated>1734016630792</updated>
+    </task>
+    <option name="localTasksCounter" value="96" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -528,7 +529,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Fibonachi_Perimeter_of_squares_in_a_rectangle.js" />
     <MESSAGE value="class" />
     <MESSAGE value="promise2" />
     <MESSAGE value="Regex Password Validation" />
@@ -553,6 +553,7 @@
     <MESSAGE value="duplicateCount" />
     <MESSAGE value="toCamelCase" />
     <MESSAGE value="Class" />
-    <option name="LAST_COMMIT_MESSAGE" value="Class" />
+    <MESSAGE value="Class!" />
+    <option name="LAST_COMMIT_MESSAGE" value="Class!" />
   </component>
 </project>
