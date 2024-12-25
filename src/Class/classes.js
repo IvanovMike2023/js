@@ -135,22 +135,14 @@ class Car {
         this.brand = brand
             this.maxspeed = maxspeed
     }
-        static compareCar(obj1,obj2) {
-        if(obj1.maxspeed>obj2.maxspeed){
-            console.log(obj1.brand+'быстрее'+obj2.brand)
-        }else {
-            console.log(obj2.brand+'быстрее!'+obj1.brand)
-        }
-    }
+
 }
 class SuperCar extends Car{
     constructor(brand, color,maxspeed,canFly) {
         super(brand, color,speed);
         this.canFly=canFly
     }
-    fly(){
-        console.log(`${this.brand} is flying`)
-    }
+
 }
 
 function SuperCarCreator(brand, color,maxspeed,canFly){
@@ -170,7 +162,7 @@ function CarCreator(brand, maxspeed){
 }
 CarCreator.prototype.StartEngine=function (){
     console.log(`${this.brand}'Start))))'`)
-}
+}     ///dddd
 CarCreator.prototype.CompareCars=function CompareCars(car1,car2){
     if(car1.maxspeed>car2.maxspeed){
         console.log(`${car1}'-------'`)
@@ -178,10 +170,13 @@ CarCreator.prototype.CompareCars=function CompareCars(car1,car2){
 }
 const car1 = new CarCreator('eee',220)
 const car2 = new CarCreator('cvcvcv',2200)
-const car3 = new SuperCarCreator('super','red',2200,true)
-car3.fly()
-car1.StartEngine()
-console.log(car1)
-car1.CompareCars(car1,car3)
+const superCar1 = new SuperCarCreator('volvo','red',100,true)
+const superCar2 = new SuperCarCreator('honda','red',2200,true)
+superCar1.fly()
+//car1.StartEngine()
+//console.log(car1)
+car1.CompareCars(car1,superCar1)
 SuperCarCreator.prototype.__proto__=CarCreator.prototype
-car3.StartEngine()
+//superCar1.StartEngine()
+SuperCarCreator.__proto__ = CarCreator
+superCar2.CompareCars(superCar1,superCar2)

@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a6573293-8825-4a61-b33e-db15c0a43077" name="Changes" comment="Class!s">
+    <list default="true" id="a6573293-8825-4a61-b33e-db15c0a43077" name="Changes" comment="Class!!">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Class/classes.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Class/classes.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -155,14 +154,9 @@
       <workItem from="1733840715331" duration="11157000" />
       <workItem from="1733897561758" duration="8106000" />
       <workItem from="1734016616356" duration="612000" />
-      <workItem from="1734961562644" duration="9102000" />
-    </task>
-    <task id="LOCAL-00048" summary="Calculating with Functions">
-      <created>1699969834957</created>
-      <option name="number" value="00048" />
-      <option name="presentableId" value="LOCAL-00048" />
-      <option name="project" value="LOCAL" />
-      <updated>1699969834957</updated>
+      <workItem from="1734961562644" duration="9968000" />
+      <workItem from="1735054857558" duration="49000" />
+      <workItem from="1735152677560" duration="6000" />
     </task>
     <task id="LOCAL-00049" summary="Calculating with Functionsscac">
       <created>1699970249456</created>
@@ -500,7 +494,14 @@
       <option name="project" value="LOCAL" />
       <updated>1734961959279</updated>
     </task>
-    <option name="localTasksCounter" value="97" />
+    <task id="LOCAL-00097" summary="Class!!">
+      <created>1734991298409</created>
+      <option name="number" value="00097" />
+      <option name="presentableId" value="LOCAL-00097" />
+      <option name="project" value="LOCAL" />
+      <updated>1734991298409</updated>
+    </task>
+    <option name="localTasksCounter" value="98" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -530,7 +531,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="promise2" />
     <MESSAGE value="Regex Password Validation" />
     <MESSAGE value="Promise then catch async await Promise.all" />
     <MESSAGE value="Primes" />
@@ -555,6 +555,7 @@
     <MESSAGE value="Class" />
     <MESSAGE value="Class!" />
     <MESSAGE value="Class!s" />
-    <option name="LAST_COMMIT_MESSAGE" value="Class!s" />
+    <MESSAGE value="Class!!" />
+    <option name="LAST_COMMIT_MESSAGE" value="Class!!" />
   </component>
 </project>
