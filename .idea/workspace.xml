@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a6573293-8825-4a61-b33e-db15c0a43077" name="Changes" comment="Class!!">
+    <list default="true" id="a6573293-8825-4a61-b33e-db15c0a43077" name="Changes" comment="Class!!sd">
+      <change afterPath="$PROJECT_DIR$/src/kata_6_key/Duplicate_Encoder.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Class/classes.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Class/classes.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,27 +40,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/js/js&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;yarn&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.IDE.editor.colors.VCS&quot;,
-    &quot;ts.external.directory.path&quot;: &quot;C:\\js\\js\\node_modules\\typescript\\lib&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/js/js",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "yarn",
+    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.VCS",
+    "ts.external.directory.path": "C:\\js\\js\\node_modules\\typescript\\lib",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
-  <component name="RunManager" selected="Node.js.classes.js">
+}]]></component>
+  <component name="RunManager" selected="Node.js.Duplicate_Encoder.js">
     <configuration name="Delete_occurrences_of_an_element.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/kata_6_key/Delete_occurrences_of_an_element.js" working-dir="$PROJECT_DIR$/src/kata_6_key">
       <method v="2" />
     </configuration>
-    <configuration name="Pattern.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/js1/Pattern.js" working-dir="$PROJECT_DIR$/src/js1">
+    <configuration name="Duplicate_Encoder.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/kata_6_key/Duplicate_Encoder.js" working-dir="$PROJECT_DIR$/src/kata_6_key">
       <method v="2" />
     </configuration>
     <configuration name="classes.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/Class/classes.js" working-dir="$PROJECT_DIR$/src/Class">
@@ -74,11 +74,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.Duplicate_Encoder.js" />
         <item itemvalue="Node.js.classes.js" />
         <item itemvalue="Node.js.toCamelCase.js" />
         <item itemvalue="Node.js.duplicateCount.js" />
         <item itemvalue="Node.js.Delete_occurrences_of_an_element.js" />
-        <item itemvalue="Node.js.Pattern.js" />
       </list>
     </recent_temporary>
   </component>
@@ -156,14 +156,9 @@
       <workItem from="1734016616356" duration="612000" />
       <workItem from="1734961562644" duration="9968000" />
       <workItem from="1735054857558" duration="49000" />
-      <workItem from="1735152677560" duration="6000" />
-    </task>
-    <task id="LOCAL-00049" summary="Calculating with Functionsscac">
-      <created>1699970249456</created>
-      <option name="number" value="00049" />
-      <option name="presentableId" value="LOCAL-00049" />
-      <option name="project" value="LOCAL" />
-      <updated>1699970249456</updated>
+      <workItem from="1735152677560" duration="25000" />
+      <workItem from="1735208626589" duration="5000" />
+      <workItem from="1736176425429" duration="1606000" />
     </task>
     <task id="LOCAL-00050" summary="Weight for weight">
       <created>1700053555151</created>
@@ -501,7 +496,14 @@
       <option name="project" value="LOCAL" />
       <updated>1734991298409</updated>
     </task>
-    <option name="localTasksCounter" value="98" />
+    <task id="LOCAL-00098" summary="Class!!sd">
+      <created>1735152692209</created>
+      <option name="number" value="00098" />
+      <option name="presentableId" value="LOCAL-00098" />
+      <option name="project" value="LOCAL" />
+      <updated>1735152692210</updated>
+    </task>
+    <option name="localTasksCounter" value="99" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -531,7 +533,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Regex Password Validation" />
     <MESSAGE value="Promise then catch async await Promise.all" />
     <MESSAGE value="Primes" />
     <MESSAGE value="Class1" />
@@ -556,6 +557,7 @@
     <MESSAGE value="Class!" />
     <MESSAGE value="Class!s" />
     <MESSAGE value="Class!!" />
-    <option name="LAST_COMMIT_MESSAGE" value="Class!!" />
+    <MESSAGE value="Class!!sd" />
+    <option name="LAST_COMMIT_MESSAGE" value="Class!!sd" />
   </component>
 </project>
