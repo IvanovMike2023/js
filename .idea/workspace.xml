@@ -159,14 +159,8 @@
       <workItem from="1735152677560" duration="25000" />
       <workItem from="1735208626589" duration="5000" />
       <workItem from="1736176425429" duration="1857000" />
-      <workItem from="1736833976376" duration="5551000" />
-    </task>
-    <task id="LOCAL-00051" summary="Extract the domain name from a URL">
-      <created>1700057396130</created>
-      <option name="number" value="00051" />
-      <option name="presentableId" value="LOCAL-00051" />
-      <option name="project" value="LOCAL" />
-      <updated>1700057396130</updated>
+      <workItem from="1736833976376" duration="5602000" />
+      <workItem from="1736879472651" duration="4168000" />
     </task>
     <task id="LOCAL-00052" summary="String incrementer">
       <created>1700140542749</created>
@@ -504,7 +498,14 @@
       <option name="project" value="LOCAL" />
       <updated>1736178293790</updated>
     </task>
-    <option name="localTasksCounter" value="100" />
+    <task id="LOCAL-00100" summary="Class!!sdcascas">
+      <created>1736841087692</created>
+      <option name="number" value="00100" />
+      <option name="presentableId" value="LOCAL-00100" />
+      <option name="project" value="LOCAL" />
+      <updated>1736841087693</updated>
+    </task>
+    <option name="localTasksCounter" value="101" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
