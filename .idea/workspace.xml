@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a6573293-8825-4a61-b33e-db15c0a43077" name="Changes" comment="Class!!sd">
-      <change afterPath="$PROJECT_DIR$/src/kata_6_key/Duplicate_Encoder.js" afterDir="false" />
+    <list default="true" id="a6573293-8825-4a61-b33e-db15c0a43077" name="Changes" comment="Class!!sdcascas">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/kata_6_key/Duplicate_Encoder.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/kata_6_key/Duplicate_Encoder.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,22 +40,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/js/js",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "yarn",
-    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.VCS",
-    "ts.external.directory.path": "C:\\js\\js\\node_modules\\typescript\\lib",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/js/js&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;yarn&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.IDE.editor.colors.VCS&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;C:\\js\\js\\node_modules\\typescript\\lib&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Node.js.Duplicate_Encoder.js">
     <configuration name="Delete_occurrences_of_an_element.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/kata_6_key/Delete_occurrences_of_an_element.js" working-dir="$PROJECT_DIR$/src/kata_6_key">
       <method v="2" />
@@ -158,14 +158,8 @@
       <workItem from="1735054857558" duration="49000" />
       <workItem from="1735152677560" duration="25000" />
       <workItem from="1735208626589" duration="5000" />
-      <workItem from="1736176425429" duration="1606000" />
-    </task>
-    <task id="LOCAL-00050" summary="Weight for weight">
-      <created>1700053555151</created>
-      <option name="number" value="00050" />
-      <option name="presentableId" value="LOCAL-00050" />
-      <option name="project" value="LOCAL" />
-      <updated>1700053555151</updated>
+      <workItem from="1736176425429" duration="1857000" />
+      <workItem from="1736833976376" duration="5551000" />
     </task>
     <task id="LOCAL-00051" summary="Extract the domain name from a URL">
       <created>1700057396130</created>
@@ -503,7 +497,14 @@
       <option name="project" value="LOCAL" />
       <updated>1735152692210</updated>
     </task>
-    <option name="localTasksCounter" value="99" />
+    <task id="LOCAL-00099" summary="Class!!sdcascas">
+      <created>1736178293789</created>
+      <option name="number" value="00099" />
+      <option name="presentableId" value="LOCAL-00099" />
+      <option name="project" value="LOCAL" />
+      <updated>1736178293790</updated>
+    </task>
+    <option name="localTasksCounter" value="100" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -533,7 +534,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Promise then catch async await Promise.all" />
     <MESSAGE value="Primes" />
     <MESSAGE value="Class1" />
     <MESSAGE value="Class constructors" />
@@ -558,6 +558,7 @@
     <MESSAGE value="Class!s" />
     <MESSAGE value="Class!!" />
     <MESSAGE value="Class!!sd" />
-    <option name="LAST_COMMIT_MESSAGE" value="Class!!sd" />
+    <MESSAGE value="Class!!sdcascas" />
+    <option name="LAST_COMMIT_MESSAGE" value="Class!!sdcascas" />
   </component>
 </project>
