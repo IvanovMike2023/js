@@ -26,6 +26,5 @@ function backwardsPrime(start, stop){
     console.log(res3)
 
 }
-//(start = 2, end = 100) => [13, 17, 31, 37, 71, 73, 79, 97]
-//backwardsPrime(2,100)
+
 backwardsPrime(9900,10000)

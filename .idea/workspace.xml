@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a6573293-8825-4a61-b33e-db15c0a43077" name="Changes" comment="backwardsPrime" />
+    <list default="true" id="a6573293-8825-4a61-b33e-db15c0a43077" name="Changes" comment="backwardsPrime!!">
+      <change beforePath="$PROJECT_DIR$/src/kata_6_key/backwardsPrime.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/kata_6_key/backwardsPrime.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -160,21 +162,7 @@
       <workItem from="1736879472651" duration="4210000" />
       <workItem from="1737359475091" duration="122000" />
       <workItem from="1765901628465" duration="2189000" />
-      <workItem from="1775141913674" duration="4055000" />
-    </task>
-    <task id="LOCAL-00055" summary="-----------">
-      <created>1700574772108</created>
-      <option name="number" value="00055" />
-      <option name="presentableId" value="LOCAL-00055" />
-      <option name="project" value="LOCAL" />
-      <updated>1700574772108</updated>
-    </task>
-    <task id="LOCAL-00056" summary="+-">
-      <created>1700662726620</created>
-      <option name="number" value="00056" />
-      <option name="presentableId" value="LOCAL-00056" />
-      <option name="project" value="LOCAL" />
-      <updated>1700662726620</updated>
+      <workItem from="1775141913674" duration="4083000" />
     </task>
     <task id="LOCAL-00057" summary="+-">
       <created>1700684200254</created>
@@ -505,7 +493,21 @@
       <option name="project" value="LOCAL" />
       <updated>1775146012518</updated>
     </task>
-    <option name="localTasksCounter" value="104" />
+    <task id="LOCAL-00104" summary="backwardsPrime!">
+      <created>1775146053111</created>
+      <option name="number" value="00104" />
+      <option name="presentableId" value="LOCAL-00104" />
+      <option name="project" value="LOCAL" />
+      <updated>1775146053111</updated>
+    </task>
+    <task id="LOCAL-00105" summary="backwardsPrime!!">
+      <created>1775146067502</created>
+      <option name="number" value="00105" />
+      <option name="presentableId" value="LOCAL-00105" />
+      <option name="project" value="LOCAL" />
+      <updated>1775146067502</updated>
+    </task>
+    <option name="localTasksCounter" value="106" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -535,8 +537,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Class getter setter" />
-    <MESSAGE value="Class getter наследование" />
     <MESSAGE value="Class getter наследование полиморфизм" />
     <MESSAGE value="Class getter наследование полиморфизм lesson15" />
     <MESSAGE value="alphabetPosition" />
@@ -560,6 +560,8 @@
     <MESSAGE value="d" />
     <MESSAGE value="7" />
     <MESSAGE value="backwardsPrime" />
-    <option name="LAST_COMMIT_MESSAGE" value="backwardsPrime" />
+    <MESSAGE value="backwardsPrime!" />
+    <MESSAGE value="backwardsPrime!!" />
+    <option name="LAST_COMMIT_MESSAGE" value="backwardsPrime!!" />
   </component>
 </project>
