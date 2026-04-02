@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a6573293-8825-4a61-b33e-db15c0a43077" name="Changes" comment="d">
-      <change afterPath="$PROJECT_DIR$/src/kata_7_keyh/String Scramble.js" afterDir="false" />
+    <list default="true" id="a6573293-8825-4a61-b33e-db15c0a43077" name="Changes" comment="7">
+      <change afterPath="$PROJECT_DIR$/src/kata_6_key/backwardsPrime.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,33 +40,33 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/js/js",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "yarn",
-    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.VCS",
-    "ts.external.directory.path": "C:\\js\\js\\node_modules\\typescript\\lib",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/js/js&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;yarn&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.IDE.editor.colors.VCS&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;C:\\js\\js\\node_modules\\typescript\\lib&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Node.js.String Scramble.js">
+}</component>
+  <component name="RunManager" selected="Node.js.backwardsPrime.js">
     <configuration name="Duplicate_Encoder.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/kata_6_key/Duplicate_Encoder.js" working-dir="$PROJECT_DIR$/src/kata_6_key">
       <method v="2" />
     </configuration>
     <configuration name="String Scramble.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/kata_7_keyh/String Scramble.js" working-dir="$PROJECT_DIR$/src/kata_7_keyh">
       <method v="2" />
     </configuration>
-    <configuration name="classes.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/Class/classes.js" working-dir="$PROJECT_DIR$/src/Class">
+    <configuration name="backwardsPrime.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/kata_6_key/backwardsPrime.js" working-dir="$PROJECT_DIR$/src/kata_6_key">
       <method v="2" />
     </configuration>
-    <configuration name="duplicateCount.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/kata_6_key/duplicateCount.js" working-dir="$PROJECT_DIR$/src/kata_6_key">
+    <configuration name="classes.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/Class/classes.js" working-dir="$PROJECT_DIR$/src/Class">
       <method v="2" />
     </configuration>
     <configuration name="toCamelCase.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/kata_6_key/toCamelCase.js" working-dir="$PROJECT_DIR$/src/kata_6_key">
@@ -74,11 +74,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.backwardsPrime.js" />
         <item itemvalue="Node.js.String Scramble.js" />
         <item itemvalue="Node.js.Duplicate_Encoder.js" />
         <item itemvalue="Node.js.classes.js" />
         <item itemvalue="Node.js.toCamelCase.js" />
-        <item itemvalue="Node.js.duplicateCount.js" />
       </list>
     </recent_temporary>
   </component>
@@ -162,14 +162,8 @@
       <workItem from="1736833976376" duration="5602000" />
       <workItem from="1736879472651" duration="4210000" />
       <workItem from="1737359475091" duration="122000" />
-      <workItem from="1765901628465" duration="1853000" />
-    </task>
-    <task id="LOCAL-00053" summary="String incrementer">
-      <created>1700430629920</created>
-      <option name="number" value="00053" />
-      <option name="presentableId" value="LOCAL-00053" />
-      <option name="project" value="LOCAL" />
-      <updated>1700430629920</updated>
+      <workItem from="1765901628465" duration="2189000" />
+      <workItem from="1775141913674" duration="4013000" />
     </task>
     <task id="LOCAL-00054" summary="String incrementerчфчфчф">
       <created>1700515464407</created>
@@ -507,7 +501,14 @@
       <option name="project" value="LOCAL" />
       <updated>1736885662907</updated>
     </task>
-    <option name="localTasksCounter" value="102" />
+    <task id="LOCAL-00102" summary="7">
+      <created>1765903576884</created>
+      <option name="number" value="00102" />
+      <option name="presentableId" value="LOCAL-00102" />
+      <option name="project" value="LOCAL" />
+      <updated>1765903576884</updated>
+    </task>
+    <option name="localTasksCounter" value="103" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -537,7 +538,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Class1" />
     <MESSAGE value="Class constructors" />
     <MESSAGE value="Class getter setter" />
     <MESSAGE value="Class getter наследование" />
@@ -562,6 +562,7 @@
     <MESSAGE value="Class!!sd" />
     <MESSAGE value="Class!!sdcascas" />
     <MESSAGE value="d" />
-    <option name="LAST_COMMIT_MESSAGE" value="d" />
+    <MESSAGE value="7" />
+    <option name="LAST_COMMIT_MESSAGE" value="7" />
   </component>
 </project>
