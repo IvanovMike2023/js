@@ -1,5 +1,4 @@
 function backwardsPrime(start, stop){
-    // your code here
     const mas=[]
     for(let i=start;i<=stop;i++){
         mas.push(i)
