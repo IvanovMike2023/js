@@ -17,7 +17,6 @@ function backwardsPrime(start, stop){
         const reversed = parseFloat(
             n.toString().split('').reverse().join('')
         );
-
         if (reversed === n) {
             return false; // число равно самому себе
         }
