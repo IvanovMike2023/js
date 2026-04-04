@@ -10,6 +10,8 @@ function dist(v, mu) {
     return reaction + braking;
 }
 
+
+
 function speed(d, mu) {
     const g = 9.81;
 
